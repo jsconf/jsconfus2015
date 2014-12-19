@@ -1,8 +1,8 @@
 name: JSConf US 2015
-description:
-author: Chris Williams
-
-encoding: utf-8
-markdown: kramdown
-kramdown:
-  input: GFM
+description: "The Return of Badass Conference"
+url: http://2015.jsconf.us
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+markdown: redcarpet
+highlighter: true
