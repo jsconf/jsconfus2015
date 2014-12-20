@@ -1,5 +1,5 @@
 name: JSConf US 2015
-description: "The Return of Badass Conference"
+description: "The return of the epic badass conference for JS and the Web."
 url: http://2015.jsconf.us
 exclude:
   - README.md
