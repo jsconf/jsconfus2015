@@ -1,6 +1,7 @@
 body{
 font-family: 'Share Tech Mono', sans-serif;
 padding: 0;
+font-size: 16px;
 color:#010b18;
 }
 #information { margin-top: 20px;font-weight: 900; font-size:28px }
@@ -32,6 +33,7 @@ footer {
 margin-top: 150px;
 margin-bottom: 150px;
 }
+b { font-weight: 900; color: #010b18; background-color: yellow;}
 
 .curator { width: 46%; float:left; margin:0px 2%;}
 #about .curator img.left { margin-right: 6px; margin-bottom: 6px;}
@@ -59,7 +61,7 @@ background-image: url(../img/pegasus.png);
 #logo { position: absolute; left:0px; right: 0px; top:0px; text-align: center; z-index:9; height: 230px; line-height: 230px; background: transparent url(../img/jsconf-2015-logo.png) center no-repeat; }
 
 
-.navbar { border-radius: 0px; }
+.navbar { border-radius: 0px; font-size: 14px;}
 
 
 #extra { position: absolute; top: 0px; left: 0px; right: 0px; height: 25px; color: white; z-index: 12;  padding-top: 12px; font-size: 14px; text-align: right;}
@@ -192,7 +194,7 @@ display:inline-block;
 
 
 
-.well.hover .boom { color: #b5371a;}
+.well.hover .boom { color: #28b5b5;}
 
 .busschedule {  margin: 1em auto;}
 .busschedule td { width: 250px; text-align: center;font-weight: bold; font-size: 200%;}
