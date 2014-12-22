@@ -52,6 +52,8 @@ h1 { margin-bottom: 1.5em;}
 #header { height: 230px;
 background: #010b18;
 background-image: url(../img/headerbg.png);
+background-repeat: none;
+background-position: center;
 }
 #logo:hover {
 background-image: url(../img/pegasus.png);
