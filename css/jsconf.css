@@ -1,5 +1,6 @@
 body{
-font-family: 'Share Tech Mono', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Inconsolata';
 padding: 0;
 font-size: 16px;
 color:#010b18;
@@ -24,7 +25,8 @@ margin-top:40px;
 a.btn, a.btn:link, a.btn:visited { color: white;}
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-font-family: 'Share Tech Mono', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Inconsolata';
 font-weight: 500;
 line-height: 1.1;
 }
