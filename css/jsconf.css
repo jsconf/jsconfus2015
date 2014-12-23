@@ -64,7 +64,7 @@ background-image: url(../img/pegasus.png);
 #logo { position: absolute; left:0px; right: 0px; top:0px; text-align: center; z-index:9; height: 230px; line-height: 230px; background: transparent url(../img/jsconf-2015-logo.png) center no-repeat; }
 
 
-.navbar { border-radius: 0px; font-size: 14px;}
+.navbar { border-radius: 0px; font-size: 14px; background:#fc00ac;}
 
 
 #extra { position: absolute; top: 0px; left: 0px; right: 0px; height: 25px; color: white; z-index: 12;  padding-top: 12px; font-size: 14px; text-align: right;}
