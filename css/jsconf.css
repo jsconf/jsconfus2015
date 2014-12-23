@@ -55,7 +55,7 @@ h1 { margin-bottom: 1.5em;}
 background: #010b18;
 background-image: url(../img/headerbg.png);
 background-repeat: none;
-background-position: center;
+background-position: center center;
 }
 #logo:hover {
 background-image: url(../img/pegasus.png);
@@ -163,10 +163,11 @@ font-size: 50px;
 }
 
 @media (max-width: 768px) {
-#logo img {
-height: 100px;
+#logo {
+height: 150px;
 }
-#header { height: 150px; line-height:150px;}
+#header { height: 150px; line-height:150px; background:#010b18}
+
 
 .navbar-collapse { max-height: 420px;}
 
