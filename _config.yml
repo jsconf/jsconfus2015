@@ -5,4 +5,4 @@ exclude:
   - README.md
   - CONTRIBUTING.md
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
