@@ -48,3 +48,15 @@
     Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq “MSFT”) is
     the worldwide leader in software, services, devices and solutions that help
     people and businesses realize their full potential.
+
+- name: Pluralsight
+  visible: true
+  short: pluralsight
+  logo: pluralsight.png
+  url: http://www.pluralsight.com/
+  event: 
+  description: >
+    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
+    training for software developers, IT specialists and creative
+    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
+    delivering hands-on learning for the most in-demand jobs of today.
