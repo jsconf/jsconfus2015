@@ -21,3 +21,19 @@
     securely from a desktop computer, mobile phone or tablet. We have provided
     communications platforms, true electronic social networking and workflow
     connectivity in the financial world for over two decades.
+
+- name: Facebook
+  visible: true
+  short: facebook
+  logo: facebook.png
+  url: http://www.facebook.com/
+  event: 
+  description: >
+    [Facebook](http://www.facebook.com/) is defined by our hacker culture - an
+    environment that rewards creative problem solving and rapid decision making.
+    We encourage people to be bold. Our open culture keeps everyone informed
+    and allows people to move around and solve the problems they care about
+    most. We work in small teams and move fast to develop new products,
+    constantly iterating and improving. The phrase “this journey is 1%
+    finished” is posted on our walls, reminding us that we’ve only begun to
+    fulfill our mission to make the world more open and connected.
