@@ -37,3 +37,14 @@
     constantly iterating and improving. The phrase “this journey is 1%
     finished” is posted on our walls, reminding us that we’ve only begun to
     fulfill our mission to make the world more open and connected.
+
+- name: Microsoft
+  visible: true
+  short: microsoft
+  logo: microsoft.png
+  url: http://www.microsoft.com/
+  event: 
+  description: >
+    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq “MSFT”) is
+    the worldwide leader in software, services, devices and solutions that help
+    people and businesses realize their full potential.
