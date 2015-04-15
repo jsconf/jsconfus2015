@@ -4,9 +4,9 @@
   smurl: http://twitter.com/marcysutton
   smtype: twitter
   smhandle: marcysutton
-  title:
+  title: 30 Minutes or Less: The Magic of Automated Accessibility Testing
   body: >
-
+    In the amount of time it would take to have a pizza delivered, I'll teach you about accessibility through JavaScript testing. By using a pragmatic approach to software quality, we can create a more inclusive Web. Take it from someone who has broken high-profile builds: you can win by automating tests for common accessibility problems and catching them before they are deployed out into the world.
   bio: >
     Marcy Sutton is a developer at Substantial and Angular core team member working on Material Design for Angular. She is a primary contributor to ngAria, the accessibility module, as well as the author of a new accessibility plug-in for Protractor, the end-to-end testing framework. In her spare time, she co-organizes the Seattle chapter of Girl Develop It. She's also in love with riding bicycles and throwing the frisbee for her dog/Muppet.
 
@@ -17,9 +17,9 @@
   smtype: twitter
   smhandle: jroufa
   company: Quiet Light Communications
-  title:
+  title: Maintaining a Local Dev Meetup
   body: >
-
+    What do you do when you only have a few regular attendees? Is your own schedule so crammed you can't sustainably present every topic every month? Do you still want a local user group? Some hard won experience from a local web developer meetup co-organizer. Or, how we kept the user group going and helped foster continued growth in attendance and participation.
   bio: >
     Doing things with webs since interning for the Chicago Technology Cooperative in 2007, Jacob is a mostly front-end focused web developer that enjoys building purposeful applications and elegant, usable solutions. Co-organizer of the Rockford Web Devs meetup and rockdevs.com. Interactive Developer for Quiet Light Communications, a full service agency located in downtown Rockford, IL. Veteran of FatWallet.com and the Rockford Register Star.
 
@@ -29,9 +29,13 @@
   smurl: http://twitter.com/tgriesser
   smtype: twitter
   smhandle: tgriesser
-  title:
+  title: Making Relational Cool Again (or: JavaScript on ACID)
   body: >
+    Who in their right mind would ever want to work with RDBMS anymore. Especially in JavaScript, where you can just call "save" on your JSON and turn it into web-scale BSON, or get to choose between so many levels of DB that we don't even know which to use.
 
+    This will be a story about one person's journey to try and make people believe that Node can actually be a thing for boring, early-2000's era web applications using (gasp) SQL.
+
+    It'll also share some discoveries along the way including how ACID / transactions can be super useful in the everything-async world of JavaScript, and some tips and tricks for keeping a sane and organized data layer when venturing into the abyss of hybrid single-page / server-rendered applications.
   bio: >
     Tim is a software engineer from Philadelphia. He enjoys building things for the web and collaborating on open source JavaScript. He is passionate about learning from and teaching the best ideas from different languages and frameworks.
 
@@ -42,9 +46,9 @@
   smtype: twitter
   smhandle: sebmck
   company: Cloudflare
-  title:
+  title: JavaScript Transformation
   body: >
-
+    I made the open source project [6to5](https://github.com/6to5/6to5) and will be presenting on how JavaScript transformation and ES6 can help improve developer workflow and how it can futureproof their code. Not only transpilation to ES6 but how 6to5 has support for Flow, JSX and React so it can be integrated into many workflows extremely nicely. There are many challenges associated with transforming JavaScript as well as AST manipulation that I think would be extremely beneficial for the average developer to know about. There's even crazy stuff like transpiling proxies/Object.observe which wraps every single expression in a method.
   bio: >
     Sebastian McKenzie is a JavaScript enthusiast based in London, UK. He's extremely passionate about open source as well as web standards and is always looking to push the boundaries of what is possible. He currently works at Cloudflare as a JavaScript engineer working on website optimisation and delivery. Sebastian is also the creator of the popular Babel compiler that's used by many developers to bring their code to life.
 
@@ -56,7 +60,7 @@
   smhandle: mmatuzak
   title:
   body: >
-
+    TBD
   bio: >
     I got my first NES when I was 4 and have loved it ever since. Now as an adult I still love video games, but am more interested in doing crazy mad science with the console.
 
@@ -69,9 +73,11 @@
   smtype: twitter
   smhandle: Jhusain
   company: Netflix
-  title:
+  title: Async Programming in ES7
   body: >
+    Currently there are ES7 features proposed for async programming that have never been seen in a programming language before. If accepted, these proposals could allow entire JS applications to be written _without a single callback_!
 
+    By providing the same level of support for async functions as regular functions, ES7 could dramatically alter the way everyday developers write code. Imagine reading data from a stream or a web socket with a simple loop. Imagine catching async errors using try/catch, and never again finding yourself in the callback pyramid of doom.
   bio: >
     Jafar Husain is the Cross-Team Technical Lead for the Netflix UI's. He is the architect of Netflix's UI data platform, and specializes in building reactive, event-driven systems. A highly-rated speaker, he has spoken at QCon, HTML Dev Conf, QCon, CodeMesh, YOW! and given Channel 9 interviews. He has also trained hundreds of developers to build event-driven systems in JS. He is the Netflix representative on the JavaScript standards committee (TC-39) and is actively working to add better async primitives to the JavaScript language.
 
@@ -81,9 +87,13 @@
   smurl: http://twitter.com/dann
   smtype: twitter
   smhandle: dann
-  title:
+  title: Visualizing process evolution
   body: >
+    What actually happens when your code is run? Our programs are simple text documents composed of patterns of rules, but the processes they guide aren't nearly as well behaved. Function scopes are generated, data is plumbed through pathways, bits are shifted and applications are evaluated. There's a lot of ins, a lot of outs. It's a very complicated case.
 
+    We can gain some insight into the process with console.log and step-through debuggers, but we're left to develop a full program simulation in our minds based only on the code we wrote and the tiny snapshots our debugger gives us -- effectively requiring a JS interpreter to be compiled into our wetware. This can make it somewhat challenging to reason about our work.
+
+    We'll look at some ways of remedying this, starting with basic data structures and tiptoeing toward full programs. Your code is the DNA for a process: let's build an illustrated anatomy guide.
   bio: >
     Dann enjoys building things, like programming languages, databases, distributed systems, communities of smart friendly humans, and pony castles with his two year old.
 
@@ -93,11 +103,15 @@
   smurl: http://twitter.com/parshap
   smtype: twitter
   smhandle: parshap
-  title:
+  title: The Virtual CSSOM
   body: >
+    There are a number deficiencies with CSS: no namespaces, no dependency management, no isolation, no dead code elimination, confusing cascading behavior, and no easy way to share logic or constants. There are various hacks and alternate languages we've created to resolve some of these issues, but I propose that the best solution is to express styles in JavaScript instead of CSS.
 
+    Just by using JavaScript and its ecosystem, many of these issues are solved automatically. The require() module system gives us namespacing and explicit dependencies, tools like UglifyJS will remove unused code, the confusing cascading behavior of CSS can be bypassed completely, and shared logic and constants can be written in one place.
+
+    By taking it a step further, we can unlock many more possibilities. A user-space representation of the CSS object model, a "Virtual CSSOM", enables us to do things like polyfill CSS features and automatically inline "critial path" styles.
   bio: >
-    -
+    Parsha grew up programming with a Commodore 64 and started creating websites in 1995. His interests include language design, decentralized systems, hardware, databases, and of course, the web platform. Parsha enjoys working on tooling and developer efficiency. When not hacking on games, home automation, and other projects, he enjoys skiing and playing tennis.
 
 - firstname: Jan
   lastname: Jongboom
@@ -108,7 +122,7 @@
   company: Telenor Digital
   title:
   body: >
-
+    TBD
   bio: >
      Half the day I'm a developer for Telenor Digital where I work on Firefox OS / IoT / Open Hardware. I'm a core contributor for Firefox OS and submitted hundreds of patches to various open source projects. Furthermore I'm working as Firefox OS Evangelist, building community in countries where Telenor launches. I'm known for juggling phones on stage, and one Bengali newspaper credited me as "Firefox OS Grand Master"
 
@@ -119,9 +133,9 @@
   smtype: twitter
   smhandle: stevekinney
   company: The Turing School of Software and Design
-  title:
+  title: Building a musical instrument with the Web Audio API
   body: >
-
+    Building a musical instrument with the Web Audio API: not just how to use the Web Audio API but some of the challenges of applying musical theory to basic frequencies. A4 is 440 and to go up an octave is 880. So, you'd think that all of the other notes follow some similar mathematical formula—but they don't because instruments with frets can't handle that. I'd like to do a talk that discussed not only how to use the Web Audio API but touched on how to build musical instruments using it and collaborating on music over the web.
   bio: >
     Steve is originally from the great state of New Jersey and was a New York City public school teacher for seven years. These days, his bread and butter is teaching JavaScript at the Turing School of Software and Design in Denver, Colorado. In his copious free time, he teaches classes on web development with Girl Develop It.
 
@@ -132,9 +146,15 @@
   smtype: twitter
   smhandle: samccone
   company: MojoTech
-  title:
+  title: Recreating a dialup modem in javascript
   body: >
+    Pshhhkkkkkkrrrr​kakingkakingkakingtsh​chchchchchchchcch​*ding*ding*ding*
 
+    The siren song of the dialup modem that summoned AIM and the Book of Mozilla has a language unto itself.
+
+    In this talk, we’ll learn how to implement an end-to-end frequency-shift keying modem, capable of sending and receiving data between computers using the Web Audio API.
+
+    By using a browser, I’ll provide an interactive session detailing how we can use javascript to encode and decode what modem tones really mean.
   bio: >
     Sam Saccone is an engineer working at MojoTech. In his free time he works on MarionetteJS, TodoMVC, and when not in front of his computer likes to wear hats.
 
@@ -145,11 +165,13 @@
   smtype: twitter
   smhandle: thisisjohnbrown
   company: Instrument
-  title:
+  title: "(math == art && art == code)"
   body: >
+    The formula for a Bezier curve is beautiful. Using sine and cosine to create orbiting objects is dazzling. L-systems create fractals through elegant simplicity. Developers, as a group, may be losing site of the beauty that code can create. Designers by the bunch are picking up a keyboard and creating amazing pieces, but it's happening the other way very slowly. That's a shame, because the computer lets otherwise unexpressed ideas go unexplored.
 
+    Developers have the ability to embrace the art of programming and the art of art because of the myriad frameworks available. Use the language of your choice to make some art, whether it’s in the browser or in the physical realm. Walk away with the confidence and the inspiration to put down the work for a minute and pick up a digital paintbrush.
   bio: >
-    -
+    John Brown is a Swiss Army developer, a Jack of all Trades, a serial "knows just enough to be dangerous" sort. In Portland, OR, he fits in perfectly with his beard, tattoos, self-roasted coffee, homemade sodas, and handmade furniture made from reclaimed lumber. He's working on at least two side projects at any time, so ask him about either of them!
 
 - firstname: Simon
   lastname: Swain
@@ -157,23 +179,31 @@
   smurl: http://twitter.com/simon_swain
   smtype: twitter
   smhandle: simon_swain
-  company: -
-  title:
+  company:
+  title: Cold War
   body: >
+    Growing up in the '80s wasn't as cool as it's made out to be. As a teenager of that decade, we not only lacked any reasonable fashion sense, we lived under the constant shadow of nuclear oblivion.
 
+    In hindsight, the arms race begat some huge advances in computing theory and practice, and since your average mobile phone is more powerful than that era's entire North American early warning system, makes a great target for simulation.
+
+    Cold War is an in-browser recreation of the nightmare that was the '80s, exploring emergent systems, the limits of Javascript performance, and some techniques that might actually be useful in your day job when you get back to civilization.
+
+    Expect vector graphics, high altitude bombers, missiles, killer satellites and explosions. More than a few explosions. And unlike the '80s, lasers that actually work.
   bio: >
-    I'll write this and supply via email shortly. Thanks.
+    Simon spends most of his day using Javascript to design systems and human interfaces for real-time data. Based in Sydney, Australia he's come full circle back to his electronic engineering roots to work for a startup creating tiny but powerful wifi enabled modules that will be brains for the coming flood of internet connected devices.
 
-- firstname: FELIPE
-  lastname: DE ALBUQUERQUE
+    On the side Simon produces Techno, keeps obsessively fit and is still trying to work out Wing Chun.
+
+- firstname: Felipe
+  lastname: de Albuquerque
   visible: true
   smurl: http://felipealbuquerque.com/
   smtype: twitter
   smhandle: http://felipealbuquerque.com/
   company: CESAR
-  title:
+  title: Accessibility and JS: side-by-side
   body: >
-
+    Summary: through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps.
   bio: >
     Web Designer and Front-End developer with over ten years of experience in software development, including web applications, mobile, desktop & digital TV.
 
@@ -192,7 +222,7 @@
   company: Mozilla
   title:
   body: >
-
+    TBD
   bio: >
     I work with Javascript, Android and humans – humans are the most challenging. Lately I've been interested in mobile performance, automation, and adding more cute animals to my  Twitter feed, but I'm up for anything.
 
@@ -204,9 +234,17 @@
   smtype: twitter
   smhandle: kosamari
   company: BrooklynJS
-  title:
+  title: Knitting for Javascripters:
   body: >
+    TL;DR : Knitting is very similar to programming. Learn knitting process to be better programmer and apply your programing skill to knit.  Learn to plan better and be patient by knit, then make your code generate knitting pattern and control your knitting machine with Javascript.
 
+    Knitting is a process where your brain interpret and your hand execute kind of code we call knitting pattern. (This looks like code isn't it? -> "Row 3: sl1, inc 1, *k to 1 st before marker, inc 1, k1, slip m, k1, inc 1, repeat from * to last stitch, inc1, k1 [38(44) sts]")
+    Output of this process is a series of 1s & 0s (knit & purl stitches) which creates beautiful object.
+
+    Both have surprisingly similar learning process. It's easy to start and many people pick up in few hours to few days, but there are some hurdles before you can create your own libraries (or knitting patterns).
+    One of the hurdle is understanding how interpreter works and create appropriate algorithm. Knit pattern making is similar to coding - it starts simple, you make smaller patterns and repeat over it to create larger pattern. But if you don't plan well, it will end up messy.
+
+    Traditionally, knitters has done this on graph paper by hand, but we are programmers, let's use your computers to this task for us. Plus, who wouldn't want to convert own pixel art to knitting pattern? or better yet, program knitting machine to knit it for you.
   bio: >
     Mariko is an engineer living in New York City.  When she is not making internal tools at Percolate,  she uses JavaScript to help her knit and organize local meetup BrooklynJS.
 
@@ -219,7 +257,13 @@
   company: Mozilla
   title:
   body: >
+    SIMD.js is a standardized subset of Intel's SSE and ARM's NEON single instruction-multiple data CPU parallel instructions brought to the web platform. The right algorithm can see a 4x improvement using SIMD.js. Initial implementations exists in Firefox Nightly now and is partially implemented in Chrome. I would expect more thorough implementations of the v1 SIMD.js spec to exist in time for JS conf.
 
+    Shared Array Buffer (SAB) seeks to brings memory parrallelization  to JavaScript. Our work at this point is preliminary and experimental but we are already finding exciting use cases I think your audience would love to hear about. I would also love to get feedback on these plans while I'm there.
+
+    SIMD and SAB can make a very compelling conversation together. When on the same problem they can provide an enormous performance boost to a data hungry JS application. The theoretical boost is about 4x  from SIMD and 2x-4x (depending on how many cores are present) from SAB.
+
+    I would like to end my presentation with a Mandelbrot demo that shows this performance scaling from these technologies used in conjunction.
   bio: >
     Naveed is a passionate technologist always delving deep on the current leading edge. He has decades of experience in building low-level development tools, reverse engineering, cyber security, web development and enterprise knowledge management. Naveed is applying that passion at Mozilla where he focuses on making the web browser a tier-1 application development platform as manager of the JavaScript team.
 
@@ -232,11 +276,15 @@
   smtype: twitter
   smhandle: ag_dubs
   company: Bocoup
-  title:
+  title: "If you wish to learn ES6/2015 from scratch, you must first invent the universe"
   body: >
+    Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable.
 
+    However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript.
+
+    Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
   bio: >
-    provide later, would like to ask a few questions about this
+    Ashley Williams is an Open Web Engineer and Educator at Bocoup. Formerly a NYC Teaching Fellow, Ashley learned the ropes teaching middle school science in Harlem, NYC. Since then, she has spent the vast majority of the past few years teaching web development to beginners, most notably running the NYC Web Development Fellowship in its flagship year. When not headlong in a discussion about pedagogy, she is probably getting seriously fired up about philosophy, language, systems, and/or jokes.
 
 - firstname: Tracy
   lastname: Hinds
@@ -247,7 +295,7 @@
   company: Urban Airship
   title:
   body: >
-
+    TBD
   bio: >
-    oh gah give me a day.
+    Tracy is a cat herder of JavaScript events(of the people variety). In her spare time, she’s on her 6th life as a Web Engineer at Urban Airship. While never a butcher nor a candlestick maker, in prior lives she has been a baker, a restaurant manager, and addictions clinic coordinator. She’ll try just about anything once(kayaking down a waterfall and boiled peanuts fall into that category) and especially likes rock climbing--which may explain why she’s quickly coming up on her 9th life.
 
