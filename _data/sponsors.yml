@@ -48,3 +48,14 @@
     Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq “MSFT”) is
     the worldwide leader in software, services, devices and solutions that help
     people and businesses realize their full potential.
+
+- name: KeyCDN
+  visible: true
+  short: keycdn
+  logo: keycdn.png
+  url: https://www.keycdn.com/
+  event: 
+  description: >
+    [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
+    Delivery Network (CDN) made to satisfy your needs! Speed up your games,
+    software delivery, advertisements, CMS, websites and many more.
