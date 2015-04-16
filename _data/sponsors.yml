@@ -48,3 +48,16 @@
     Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq “MSFT”) is
     the worldwide leader in software, services, devices and solutions that help
     people and businesses realize their full potential.
+
+- name: Respoke
+  visible: true
+  short: respoke
+  logo: respoke.png
+  url: https://www.respoke.io/
+  event: Room Key Cards
+  description: >
+    Respoke makes it easy to add live voice, video and messaging features to
+    your web or mobile app in minutes. Give your app a face and a voice at
+    [https://www.respoke.io/](https://www.respoke.io/)
+
+
