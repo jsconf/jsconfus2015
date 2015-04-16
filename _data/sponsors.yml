@@ -3,7 +3,7 @@
   short: bloomberg
   logo: bloomberg.png
   url: http://www.bloomberglabs.com
-  event: 
+  event: Welcome Reception
   description: >
     [Bloomberg](http://www.bloomberglabs.com) technology helps drive the
     world’s financial markets. We provide communications platforms, data,
@@ -27,7 +27,7 @@
   short: facebook
   logo: facebook.png
   url: http://www.facebook.com/
-  event: 
+  event: Bike Rentals
   description: >
     [Facebook](http://www.facebook.com/) is defined by our hacker culture - an
     environment that rewards creative problem solving and rapid decision making.
@@ -43,7 +43,7 @@
   short: microsoft
   logo: microsoft.png
   url: http://www.microsoft.com/
-  event: 
+  event: Arcade
   description: >
     Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq “MSFT”) is
     the worldwide leader in software, services, devices and solutions that help
