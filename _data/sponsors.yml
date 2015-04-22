@@ -67,6 +67,18 @@
     Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
     [@telerik](https://twitter.com/telerik) on Twitter.
 
+- name: Respoke
+  visible: true
+  short: respoke
+  logo: respoke.png
+  url: https://www.respoke.io/
+  event: Room Key Cards
+  description: >
+    Respoke makes it easy to add live voice, video and messaging features to
+    your web or mobile app in minutes. Give your app a face and a voice at
+    [https://www.respoke.io/](https://www.respoke.io/)
+
+
 - name: Pluralsight
   visible: true
   short: pluralsight
