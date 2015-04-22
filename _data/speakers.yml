@@ -261,15 +261,9 @@
   company: BrooklynJS
   title: Knitting for Javascripters
   body: >
-    TL;DR : Knitting is very similar to programming. Learn knitting process to be better programmer and apply your programing skill to knit.  Learn to plan better and be patient by knit, then make your code generate knitting pattern and control your knitting machine with Javascript.
+    Wouldn't it be cool if you could "print out" your own javascript generated bitmap art as a knitted scarf ?  Well, you can !
 
-    Knitting is a process where your brain interpret and your hand execute kind of code we call knitting pattern. (This looks like code isn't it? -> "Row 3: sl1, inc 1, *k to 1 st before marker, inc 1, k1, slip m, k1, inc 1, repeat from * to last stitch, inc1, k1 [38(44) sts]")
-    Output of this process is a series of 1s & 0s (knit & purl stitches) which creates beautiful object.
-
-    Both have surprisingly similar learning process. It's easy to start and many people pick up in few hours to few days, but there are some hurdles before you can create your own libraries (or knitting patterns).
-    One of the hurdle is understanding how interpreter works and create appropriate algorithm. Knit pattern making is similar to coding - it starts simple, you make smaller patterns and repeat over it to create larger pattern. But if you don't plan well, it will end up messy.
-
-    Traditionally, knitters has done this on graph paper by hand, but we are programmers, let's use your computers to this task for us. Plus, who wouldn't want to convert own pixel art to knitting pattern? or better yet, program knitting machine to knit it for you.
+    Knitting textiles is a lot like programing computers. You write your knit pattern (code), your brain compiles it, and your hands render knit stitches (1s) and purl stitches (0s). It means you can decipher knitting nomenclature like "k2, m1L, k1, m1L, k until 3 sts remain,  m1R, k1, m1R, k2" into JavaScript. This talk will cover how you can program knitting patterns in JavaScript and then use an electronic knitting machine from the 1980's to make beautiful knitted textiles. 
   bio: >
     Mariko is an engineer living in New York City.  When she is not making internal tools at Percolate,  she uses JavaScript to help her knit and organize local meetup BrooklynJS.
 
