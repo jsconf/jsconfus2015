@@ -78,3 +78,14 @@
     training for software developers, IT specialists and creative
     technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
     delivering hands-on learning for the most in-demand jobs of today.
+
+- name: KeyCDN
+  visible: true
+  short: keycdn
+  logo: keycdn.png
+  url: https://www.keycdn.com/
+  event:
+  description: >
+    [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
+    Delivery Network (CDN) made to satisfy your needs! Speed up your games,
+    software delivery, advertisements, CMS, websites and many more.
