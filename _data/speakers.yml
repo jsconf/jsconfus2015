@@ -52,6 +52,23 @@
   bio: >
     Sebastian McKenzie is a JavaScript enthusiast based in London, UK. He's extremely passionate about open source as well as web standards and is always looking to push the boundaries of what is possible. He currently works at Cloudflare as a JavaScript engineer working on website optimisation and delivery. Sebastian is also the creator of the popular Babel compiler that's used by many developers to bring their code to life.
 
+- firstname: Ashley
+  lastname: Williams
+  visible: true
+  smurl: http://twitter.com/ag_dubs
+  smtype: twitter
+  smhandle: ag_dubs
+  company: Bocoup
+  title: "If you wish to learn ES6/2015 from scratch, you must first invent the universe"
+  body: >
+    Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable.
+
+    However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript.
+
+    Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
+  bio: >
+    Ashley Williams is an Open Web Engineer and Educator at Bocoup. Formerly a NYC Teaching Fellow, Ashley learned the ropes teaching middle school science in Harlem, NYC. Since then, she has spent the vast majority of the past few years teaching web development to beginners, most notably running the NYC Web Development Fellowship in its flagship year. When not headlong in a discussion about pedagogy, she is probably getting seriously fired up about philosophy, language, systems, and/or jokes.
+
 - firstname: Michael
   lastname: Matuzak
   visible: true
@@ -276,23 +293,6 @@
     Naveed is an Engineering Manager at Mozilla leading their JavaScript and Low Level Tools teams. He is intensely focused on making the web platform the best platform for all development. Step one is functional parity with native code in a web friendly way. Step two… profit?
 
     Naveed has decades of experience in building low-level development tools, reverse engineering, cyber security, web development and enterprise knowledge management. He also enjoys dabbling in the Arduino platform, cycling, playing guitar badly and working his way through Will Durant’s Story of Civilization. Follow his adventures @naveedi
-
-- firstname: Ashley
-  lastname: Williams
-  visible: true
-  smurl: http://twitter.com/ag_dubs
-  smtype: twitter
-  smhandle: ag_dubs
-  company: Bocoup
-  title: "If you wish to learn ES6/2015 from scratch, you must first invent the universe"
-  body: >
-    Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable.
-
-    However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript.
-
-    Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
-  bio: >
-    Ashley Williams is an Open Web Engineer and Educator at Bocoup. Formerly a NYC Teaching Fellow, Ashley learned the ropes teaching middle school science in Harlem, NYC. Since then, she has spent the vast majority of the past few years teaching web development to beginners, most notably running the NYC Web Development Fellowship in its flagship year. When not headlong in a discussion about pedagogy, she is probably getting seriously fired up about philosophy, language, systems, and/or jokes.
 
 - firstname: Tracy
   lastname: Hinds
