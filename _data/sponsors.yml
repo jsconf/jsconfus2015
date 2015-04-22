@@ -43,8 +43,38 @@
   short: microsoft
   logo: microsoft.png
   url: http://www.microsoft.com/
-  event: Arcade
+  event: The Maxx Arcade
   description: >
-    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq “MSFT”) is
+    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
     the worldwide leader in software, services, devices and solutions that help
     people and businesses realize their full potential.
+
+- name: Telerik
+  visible: true
+  short: telerik
+  logo: telerik.png
+  url: http://www.telerik.com/
+  event: NodeCopter
+  description: >
+    Telerik empowers its customers to create compelling app experiences across
+    any screen. Our end-to- end platform uniquely combines industry-leading UI
+    tools with cloud services to simplify the entire app development lifecycle.
+    Telerik tools and services can be adopted individually or as a platform and
+    seamlessly integrated with other popular developer solutions. More than
+    130,000 customers from 40,000 organizations in 94 countries depend on
+    Telerik products, including more than 450 of the Fortune 500®, academic
+    institutions, governments and non-profits. For additional information about
+    Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
+    [@telerik](https://twitter.com/telerik) on Twitter.
+
+- name: Pluralsight
+  visible: true
+  short: pluralsight
+  logo: pluralsight.png
+  url: http://www.pluralsight.com/
+  event:
+  description: >
+    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
+    training for software developers, IT specialists and creative
+    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
+    delivering hands-on learning for the most in-demand jobs of today.
