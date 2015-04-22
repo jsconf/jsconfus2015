@@ -4,7 +4,7 @@
   smurl: http://twitter.com/marcysutton
   smtype: twitter
   smhandle: marcysutton
-  title: 30 Minutes or Less: The Magic of Automated Accessibility Testing
+  title: "30 Minutes or Less: The Magic of Automated Accessibility Testing"
   body: >
     In the amount of time it would take to have a pizza delivered, I'll teach you about accessibility through JavaScript testing. By using a pragmatic approach to software quality, we can create a more inclusive Web. Take it from someone who has broken high-profile builds: you can win by automating tests for common accessibility problems and catching them before they are deployed out into the world.
   bio: >
@@ -29,7 +29,7 @@
   smurl: http://twitter.com/tgriesser
   smtype: twitter
   smhandle: tgriesser
-  title: Making Relational Cool Again (or: JavaScript on ACID)
+  title: "Making Relational Cool Again (or: JavaScript on ACID)"
   body: >
     Who in their right mind would ever want to work with RDBMS anymore. Especially in JavaScript, where you can just call "save" on your JSON and turn it into web-scale BSON, or get to choose between so many levels of DB that we don't even know which to use.
 
@@ -201,11 +201,11 @@
 - firstname: Felipe
   lastname: de Albuquerque
   visible: true
-  smurl: http://felipealbuquerque.com/
-  smtype: twitter
-  smhandle: http://felipealbuquerque.com/
+  smurl: https://plus.google.com/114759529902579393274/posts
+  smtype: google-plus
+  smhandle:
   company: CESAR
-  title: Accessibility and JS: side-by-side
+  title: "Accessibility and JS: side-by-side"
   body: >
     Summary: through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps.
   bio: >
@@ -224,7 +224,7 @@
   smtype: twitter
   smhandle: k88hudson
   company: Mozilla
-  title: Beyond Responsive: Building a mobile web you're f*ing proud of
+  title: "Beyond Responsive: Building a mobile web you're f*ing proud of"
   body: >
     Making the mobile web platform better, both for ourselves and for the next two billion users, is one of the most important challenges of our careers. It's not enough to rely on standards organizations and browser vendors to solve our technical and cultural problems. We've got to do more.
 
@@ -242,7 +242,7 @@
   smtype: twitter
   smhandle: kosamari
   company: BrooklynJS
-  title: Knitting for Javascripters:
+  title: Knitting for Javascripters
   body: >
     TL;DR : Knitting is very similar to programming. Learn knitting process to be better programmer and apply your programing skill to knit.  Learn to plan better and be patient by knit, then make your code generate knitting pattern and control your knitting machine with Javascript.
 
