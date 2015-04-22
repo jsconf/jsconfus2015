@@ -1,667 +1,311 @@
-
-- firstname: Kassandra
-  lastname: Perch
+- firstname: Marcy
+  lastname: Sutton
   visible: true
-  smurl: http://twitter.com/kassandra_perch
+  smurl: http://twitter.com/marcysutton
   smtype: twitter
-  smhandle: "kassandra_perch"
-  title: Modular Application Architectures in Javascript
+  smhandle: marcysutton
+  title: "30 Minutes or Less: The Magic of Automated Accessibility Testing"
   body: >
-    Web applications do not require an over-arching framework to be organized
-    and maintainable. In fact, an application with modules from all over the
-    place can in fact be maintainable, understandable, and encouraged. Instead
-    of subscribing to one framework that provides developers with an entire
-    slew of unused or unneeded functionality, an architecture can be built
-    from the ground up using small modules from a variety of different sources.
-
-
-    This kind of architecture is taking off in the Node community, and is
-    starting to make its way in client-side javascript. This talk explores
-    the differences between using a formal framework- like Ember, Backbone,
-    Express, or Sails- and using a modular approach. Frameworks are not
-    entirely out of the picture- there are a few examples of frameworks that
-    encourage this kind of architecture by providing minimal structure in
-    the right places. This talk will explore those frameworks, and the
-    general ideas, benefits, and possible pitfalls of a modular architecture,
-    from both the client and server-side perspective.
+    In the amount of time it would take to have a pizza delivered, I'll teach you about accessibility through JavaScript testing. By using a pragmatic approach to software quality, we can create a more inclusive Web. Take it from someone who has broken high-profile builds: you can win by automating tests for common accessibility problems and catching them before they are deployed out into the world.
   bio: >
-    Kassandra is a developer, crafter, and gamer living in Austin, TX. Her days
-    are spent at RetailMeNot, where she slings javascript and tries to make
-    developer processes easier. her nights and weekends are spent slinging more
-    javascript, teaching for Girl Develop It!, and re-learning how to roller
-    skate. She's an unrepentant JS addict- and is especially interested in JS
-    robotics/hardware.
+    Marcy Sutton is a developer at Substantial and Angular core team member working on Material Design for Angular. She is a primary contributor to ngAria, the accessibility module, as well as the author of a new accessibility plug-in for Protractor, the end-to-end testing framework. In her spare time, she co-organizes the Seattle chapter of Girl Develop It. She's also in love with riding bicycles and throwing the frisbee for her dog/Muppet.
 
-- firstname: Guillaume C.
-  lastname: Marty
+- firstname: Jacob
+  lastname: Roufa
   visible: true
-  smurl: https://twitter.com/g_marty
+  smurl: http://twitter.com/jroufa
   smtype: twitter
-  smhandle: g_marty
-  title: Play DVDs in JavaScript for the sake of interoperability
+  smhandle: jroufa
+  company: Quiet Light Communications
+  title: Maintaining a Local Dev Meetup
   body: >
-    We have everything we need to read DVD-video discs in a browser, so why
-    don’t we start?
-
-
-    For that purpose, I ported libdvdread and libdvdnav libraries to
-    JavaScript so that we can parse the DVD-video info files and emulate
-    a virtual machine.
-
-
-    But this comes with technical challenges such as browsers being bad
-    at manipulating huge files or not supporting the codecs used in DVD
-    (MPEG-2, AC-3...). That’s why this port comes with a server in Node.js
-    to circumvent these limitations.
-
-
-    The resulting project is a mix of websockets, video elements, media
-    source extensions and a lot of open source love.
-
-
-    Get ready for a mind blowing demo!
+    What do you do when you only have a few regular attendees? Is your own schedule so crammed you can't sustainably present every topic every month? Do you still want a local user group? Some hard won experience from a local web developer meetup co-organizer. Or, how we kept the user group going and helped foster continued growth in attendance and participation.
   bio: >
-    Guillaume is passionate about web technologies and loves hacking and
-    building crazy things on top of open technologies. He's also
-    fascinated by video games, animation, and, as a Japanese speaker,
-    foreign languages.
+    Doing things with webs since interning for the Chicago Technology Cooperative in 2007, Jacob is a mostly front-end focused web developer that enjoys building purposeful applications and elegant, usable solutions. Co-organizer of the Rockford Web Devs meetup and rockdevs.com. Interactive Developer for Quiet Light Communications, a full service agency located in downtown Rockford, IL. Veteran of FatWallet.com and the Rockford Register Star.
 
-- firstname: Forrest L.
-  lastname: Norvell
+- firstname: Tim
+  lastname: Griesser
   visible: true
-  smurl: http://twitter.com/othiym23
+  smurl: http://twitter.com/tgriesser
   smtype: twitter
-  smhandle: "othiym23"
-  title: Learning ES6 as a Community
+  smhandle: tgriesser
+  title: "Making Relational Cool Again (or: JavaScript on ACID)"
   body: >
-    The current schedule for the completion of ECMAScript 6, the next version of
-    JavaScript, dictates that the language specification be finished by the end
-    of the second quarter of 2014. Most browser vendors have made informal
-    commitments to have ES6 implemented by the end of the year. Over the last couple
-    years, we've heard a lot about the many new features in ES6, along with the debate
-    (and bickering) which has gone into its design. ES6 stands to be the most substantial
-    change to JavaScript since ES4 (which didn't work out that great, as most users of
-    ES5 are aware).
+    Who in their right mind would ever want to work with RDBMS anymore. Especially in JavaScript, where you can just call "save" on your JSON and turn it into web-scale BSON, or get to choose between so many levels of DB that we don't even know which to use.
 
+    This will be a story about one person's journey to try and make people believe that Node can actually be a thing for boring, early-2000's era web applications using (gasp) SQL.
 
-    With this much change comes a lot of complexity. Many of the new features
-    (like generators or proxies) are powerful, basic abstractions, and as such
-    combine in complex (and potentially unexpected) ways. In many ways, a new version
-    of JavaScript offers the possibility of returning us to the wild frontier days
-    that JavaScript only recently left behind, with library and framework vendors each
-    choosing their own combinations of features to build powerful (and complicated)
-    architectures that can really only be understood on their own terms.
-
-
-    However, as a community we've learned a lot over the last half decade or so, and
-    I think we've learned how to tackle this problem head on. I've come up with a
-    strategy that I think would allow us to collaboratively get to a good place with
-    ES6 relatively quickly. I'll go over this strategy and point to the areas where
-    I think we ought to spend the most time to get the most positive results.
-
-
-    It's up to us – as a community of designers, developers, and implementors – to
-    get out in front and provide tooling, documentation, and training that will
-    help ourselves use these new features effectively, before folklore and superstition
-    start to take root. And it's important to remember that finishing ES6 frees the
-    JavaScript standards bodies to concentrate on ES7, where our feedback from using
-    ES6 will help them refine what comes next.
+    It'll also share some discoveries along the way including how ACID / transactions can be super useful in the everything-async world of JavaScript, and some tips and tricks for keeping a sane and organized data layer when venturing into the abyss of hybrid single-page / server-rendered applications.
   bio: >
-    Forrest has been a web developer since 1994, a semi-enthusiastic JavaScript user since 1997, a more enthusiastic AJAX developer since 2007, and a full-time Node.js developer since 2011. He built New Relic's instrumentation for Node.js, which required him to learn all of the JavaScript and then use it to do horrible, yet effective, things to write a performance monitor for Node in 100% pure JavaScript.
+    Tim is a software engineer from Philadelphia. He enjoys building things for the web and collaborating on open source JavaScript. He is passionate about learning from and teaching the best ideas from different languages and frameworks.
 
-- firstname: James
-  lastname: Long
+- firstname: Sebastian
+  lastname: McKenzie
   visible: true
-  smurl: http://twitter.com/jlongster
+  smurl: http://twitter.com/sebmck
   smtype: twitter
-  smhandle: jlongster
-  title: Unshackling JavaScript with Macros
+  smhandle: sebmck
+  company: Cloudflare
+  title: JavaScript Transformation
   body: >
-    JavaScript is thriving, but the language itself is shackled to the
-    long process of ECMA standardization and implementation in all
-    engines. We have to wait many years for a simple feature like variable
-    destructuring.
-
-
-    Macros allow you to extend a language with new syntax and semantics,
-    just like you would build new APIs on top of native ones. There's no
-    reason the language itself shouldn't be extensible, which allows it to
-    grow naturally.
-
-
-    sweet.js is a project that implements robust hygienic macros for
-    JavaScript. I will explain how this works and why it's such an
-    exciting idea. I will show how you can already have ES6 variable
-    destructuring, classes, fat arrow syntax, and more just with a few
-    macros. In addition, you can use things like function tracing, native
-    pattern matching, better assertions (logs contain the original
-    expression), and much more. sweet.js macros track the original source
-    location and generates sourcemaps, so debug away like normal! Let's
-    unshackle ourselves from the mire of standardization, and take control
-    of the language we love!
+    I made the open source project [6to5](https://github.com/6to5/6to5) and will be presenting on how JavaScript transformation and ES6 can help improve developer workflow and how it can futureproof their code. Not only transpilation to ES6 but how 6to5 has support for Flow, JSX and React so it can be integrated into many workflows extremely nicely. There are many challenges associated with transforming JavaScript as well as AST manipulation that I think would be extremely beneficial for the average developer to know about. There's even crazy stuff like transpiling proxies/Object.observe which wraps every single expression in a method.
   bio: >
-    I love programming language research, and hack on compilers and games
-    in my free time. During the day I work for Mozilla on the Developer
-    Tools. I achieved the ultimate yak-shave: spent 3 months building my
-    own desk before I could work on some code.
+    Sebastian McKenzie is a JavaScript enthusiast based in London, UK. He's extremely passionate about open source as well as web standards and is always looking to push the boundaries of what is possible. He currently works at Cloudflare as a JavaScript engineer working on website optimisation and delivery. Sebastian is also the creator of the popular Babel compiler that's used by many developers to bring their code to life.
 
-- firstname: David
-  lastname: Nolen
+- firstname: Michael
+  lastname: Matuzak
   visible: true
-  smurl: http://twitter.com/swannodette
+  smurl: http://twitter.com/mmatuzak
   smtype: twitter
-  smhandle: "swannodette"
-  title: "Immutability: Putting The Dream Machine To Work"
+  smhandle: mmatuzak
+  title: Amazing Things One Can Do With JS and the NES
   body: >
-    We live in a time of vast computational resources - many of us
-    carry around in our pockets what just thirty years ago would have been
-    considered a supercomputer. But it's not just the hardware, these bite
-    sized supercomputers run software using state of the art dynamic
-    compilation techniques to deliver stellar performance without
-    sacrificing flexibility.
+    Have you ever wanted to make those 8-bit sounding tunes from your childhood? What better way to do it than using the actual hardware to get that classic sound? Oh wait. I have to learn some archaic assembler? Not anymore! Now make those classic sounds from your childhood with JavaScript.
 
-
-    While all of this may sound incredibly futuristic, many of us still
-    program these Dream Machines with miserly techniques not far removed
-    from the best practices of the 1960s.
-
-
-    We have cycles to spare, by investing some of them into immutable data
-    structures our programs get new wonderful properties that enable us to
-    design solutions at a much higher level of abstraction. Om is a new
-    library I've created just to explore these possibities. While Om itself
-    is written in ClojureScript, we'll focus primarily on the big ideas
-    present in Om all of which are easily portable to JavaScript.
-
+    This talk will go over the basics of how sound works on the NES, and how we can use JavaScript to make music on the NES.
   bio: >
-    David Nolen is a sofware engineer for Cognitect. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming.
+    I got my first NES when I was 4 and have loved it ever since. Now as an adult I still love video games, but am more interested in doing crazy mad science with the console.
 
-- firstname: Mark
-  lastname: DiMarco
+    I am an organizer of js.la and am trying to make the JavaScript community in Los Angeles awesome.
+
+- firstname: Jafar
+  lastname: Husain
   visible: true
-  smurl: http://github.com/markmarkoh
-  smtype:  github
-  smhandle: "markmarkoh"
-  title: User Interface Algorithms
+  smurl: http://twitter.com/Jhusain
+  smtype: twitter
+  smhandle: Jhusain
+  company: Netflix
+  title: Async Programming in ES7
   body: >
-    Even something as simple as a dropdown menu or a bar graph can introduce usability problems. From a slide out menu disappearing when a user's mouse moves a few pixels too far, to requiring NASA-like levels of precision to mouse over the right element, there are algorithms already implemented in Javascript to help us overcome these problems.
-    If an algorithm is defined as "a step-by-step procedure for calculations", let's visually break down those steps for 2 different non-trivial algorithms and explore how these algorithms are applied to some standard & everyday user interface patterns. We'll first look at an algorithm for predicting a user's intentions by calculating mouse speed and direction, and then tackle determining hit state for hundreds of non-uniformed, variably sized and placed UI elements.
-  bio: >
-    [Mark DiMarco](http://work.markmarkoh.com/) is a Senior UI Engineer at Bazaarvoice in Austin, TX. He spends
-    his free time working on [DataMaps](http://datamaps.github.io/), attempting to master the art of brewing coffee,
-    and [taking photos](http://500px.com/markmarkoh) with his favorite piece of technology (a Nikon D600).
+    Currently there are ES7 features proposed for async programming that have never been seen in a programming language before. If accepted, these proposals could allow entire JS applications to be written _without a single callback_!
 
-- firstname: Nick
-  lastname: Bray
+    By providing the same level of support for async functions as regular functions, ES7 could dramatically alter the way everyday developers write code. Imagine reading data from a stream or a web socket with a simple loop. Imagine catching async errors using try/catch, and never again finding yourself in the callback pyramid of doom.
+  bio: >
+    Jafar Husain is the Cross-Team Technical Lead for the Netflix UI's. He is the architect of Netflix's UI data platform, and specializes in building reactive, event-driven systems. A highly-rated speaker, he has spoken at QCon, HTML Dev Conf, QCon, CodeMesh, YOW! and given Channel 9 interviews. He has also trained hundreds of developers to build event-driven systems in JS. He is the Netflix representative on the JavaScript standards committee (TC-39) and is actively working to add better async primitives to the JavaScript language.
+
+- firstname: Dann
+  lastname: Toliver
   visible: true
-  smurl: https://plus.google.com/u/0/112308070441027147599/posts
+  smurl: http://twitter.com/dann
+  smtype: twitter
+  smhandle: dann
+  title: Visualizing process evolution
+  body: >
+    What actually happens when your code is run? Our programs are simple text documents composed of patterns of rules, but the processes they guide aren't nearly as well behaved. Function scopes are generated, data is plumbed through pathways, bits are shifted and applications are evaluated. There's a lot of ins, a lot of outs. It's a very complicated case.
+
+    We can gain some insight into the process with console.log and step-through debuggers, but we're left to develop a full program simulation in our minds based only on the code we wrote and the tiny snapshots our debugger gives us -- effectively requiring a JS interpreter to be compiled into our wetware. This can make it somewhat challenging to reason about our work.
+
+    We'll look at some ways of remedying this, starting with basic data structures and tiptoeing toward full programs. Your code is the DNA for a process: let's build an illustrated anatomy guide.
+  bio: >
+    Dann enjoys building things, like programming languages, databases, distributed systems, communities of smart friendly humans, and pony castles with his two year old.
+
+- firstname: Parsha
+  lastname: Pourkhomami
+  visible: true
+  smurl: http://twitter.com/parshap
+  smtype: twitter
+  smhandle: parshap
+  title: JavaScript CSS
+  body: >
+    CSS has a number of deficiencies: no namespacing, dependency management, code isolation, or robust dead code elimination. It also has confusing cascading behavior and no way to share logic or constants with front-end code. We've created various hacks and alternative languages to resolve these issues, but the best solution has been right under our noses: JavaScript.
+
+    By using JavaScript and its ecosystem, the require() module system gives us namespacing and dependency management, existing tools like UglifyJS can eliminate dead code, the confusing cascading behavior of CSS can be bypassed completely, and shared logic and constants can be written in one place. Take it a step further and we can polyfill CSS features, calculate critical path styles, and perform other mad science.
+  bio: >
+    Parsha grew up programming with a Commodore 64 and started creating websites in 1995. His interests include language design, decentralized systems, hardware, databases, and of course, the web platform. Parsha enjoys working on tooling and developer efficiency. When not hacking on games, home automation, and other projects, he enjoys skiing and playing tennis.
+
+- firstname: Jan
+  lastname: Jongboom
+  visible: true
+  smurl: http://twitter.com/janjongboom
+  smtype: twitter
+  smhandle: janjongboom
+  company: Telenor Digital
+  title: Altering the real world with JavaScript
+  body: >
+    JavaScript is everywhere, but too often it's locked in computers and phones. We need to bridge the gap between the physical world and your computer... It's time to alter the world around us with JavaScript!
+
+    In previous JSConf talks Jan Jongboom ripped mainboards out of phones; abused sensors; and juggled devices, but this session is going to be harder, deeper, higher and more crazy! How about procedural music generated by the sensor data of all members of the audience? Using bluetooth beacons to find out if the person next to you is worth talking to? Hardware hacking your Firefox OS phone to add more sensors? Geofencing your newborn with a phone mainboard? And all of that... with JavaScript! Loaded with demo's this talk will forever change the way you think about JavaScript in the real world.
+
+    LET'S DO THIS!
+  bio: >
+     Half the day I'm a developer for Telenor Digital where I work on Firefox OS / IoT / Open Hardware. I'm a core contributor for Firefox OS and submitted hundreds of patches to various open source projects. Furthermore I'm working as Firefox OS Evangelist, building community in countries where Telenor launches. I'm known for juggling phones on stage, and one Bengali newspaper credited me as "Firefox OS Grand Master"
+
+- firstname: Steve
+  lastname: Kinney
+  visible: true
+  smurl: http://twitter.com/stevekinney
+  smtype: twitter
+  smhandle: stevekinney
+  company: The Turing School of Software and Design
+  title: Building a musical instrument with the Web Audio API
+  body: >
+    Building a musical instrument with the Web Audio API: not just how to use the Web Audio API but some of the challenges of applying musical theory to basic frequencies. A4 is 440 and to go up an octave is 880. So, you'd think that all of the other notes follow some similar mathematical formula—but they don't because instruments with frets can't handle that. I'd like to do a talk that discussed not only how to use the Web Audio API but touched on how to build musical instruments using it and collaborating on music over the web.
+  bio: >
+    Steve is originally from the great state of New Jersey and was a New York City public school teacher for seven years. These days, his bread and butter is teaching JavaScript at the Turing School of Software and Design in Denver, Colorado. In his copious free time, he teaches classes on web development with Girl Develop It.
+
+- firstname: Samuel
+  lastname: Saccone
+  visible: true
+  smurl: http://twitter.com/samccone
+  smtype: twitter
+  smhandle: samccone
+  company: MojoTech
+  title: Recreating a dialup modem in javascript
+  body: >
+    Pshhhkkkkkkrrrr​kakingkakingkakingtsh​chchchchchchchcch​*ding*ding*ding*
+
+    The siren song of the dialup modem that summoned AIM and the Book of Mozilla has a language unto itself.
+
+    In this talk, we’ll learn how to implement an end-to-end frequency-shift keying modem, capable of sending and receiving data between computers using the Web Audio API.
+
+    By using a browser, I’ll provide an interactive session detailing how we can use javascript to encode and decode what modem tones really mean.
+  bio: >
+    Sam Saccone is an engineer working at MojoTech. In his free time he works on MarionetteJS, TodoMVC, and when not in front of his computer likes to wear hats.
+
+- firstname: John
+  lastname: Brown
+  visible: true
+  smurl: http://twitter.com/thisisjohnbrown
+  smtype: twitter
+  smhandle: thisisjohnbrown
+  company: Instrument
+  title: "(math == art && art == code)"
+  body: >
+    The formula for a Bezier curve is beautiful. Using sine and cosine to create orbiting objects is dazzling. L-systems create fractals through elegant simplicity. Developers, as a group, may be losing site of the beauty that code can create. Designers by the bunch are picking up a keyboard and creating amazing pieces, but it's happening the other way very slowly. That's a shame, because the computer lets otherwise unexpressed ideas go unexplored.
+
+    Developers have the ability to embrace the art of programming and the art of art because of the myriad frameworks available. Use the language of your choice to make some art, whether it’s in the browser or in the physical realm. Walk away with the confidence and the inspiration to put down the work for a minute and pick up a digital paintbrush.
+  bio: >
+    John Brown is a Swiss Army developer, a Jack of all Trades, a serial "knows just enough to be dangerous" sort. In Portland, OR, he fits in perfectly with his beard, tattoos, self-roasted coffee, homemade sodas, and handmade furniture made from reclaimed lumber. He's working on at least two side projects at any time, so ask him about either of them!
+
+- firstname: Simon
+  lastname: Swain
+  visible: true
+  smurl: http://twitter.com/simon_swain
+  smtype: twitter
+  smhandle: simon_swain
+  company:
+  title: Cold War
+  body: >
+    Growing up in the '80s wasn't as cool as it's made out to be. As a teenager of that decade, we not only lacked any reasonable fashion sense, we lived under the constant shadow of nuclear oblivion.
+
+    In hindsight, the arms race begat some huge advances in computing theory and practice, and since your average mobile phone is more powerful than that era's entire North American early warning system, makes a great target for simulation.
+
+    Cold War is an in-browser recreation of the nightmare that was the '80s, exploring emergent systems, the limits of Javascript performance, and some techniques that might actually be useful in your day job when you get back to civilization.
+
+    Expect vector graphics, high altitude bombers, missiles, killer satellites and explosions. More than a few explosions. And unlike the '80s, lasers that actually work.
+  bio: >
+    Simon spends most of his day using Javascript to design systems and human interfaces for real-time data. Based in Sydney, Australia he's come full circle back to his electronic engineering roots to work for a startup creating tiny but powerful wifi enabled modules that will be brains for the coming flood of internet connected devices.
+
+    On the side Simon produces Techno, keeps obsessively fit and is still trying to work out Wing Chun.
+
+- firstname: Felipe
+  lastname: de Albuquerque
+  visible: true
+  smurl: https://plus.google.com/114759529902579393274/posts
   smtype: google-plus
   smhandle:
-  title: Native Code on the Web?
+  company: CESAR
+  title: "Accessibility and JS: side-by-side"
   body: >
-    What will it take for native code to become part of the web platform?  The web platform
-    has many wonderful qualities, but easy interoperability with other platforms is not
-    one of them.  Do you want to simultaneously develop for both native mobile and the web?
-    Or use an awesome library in your web app, but it’s written in C++?  Well... you can.
-    Almost.  Maybe.  Sometimes.  Sort of.  Many disclaimers and restrictions apply.
-    But what will it take for the answer to just be "yes"?
-
-
-    This talk will dive deep into the world of native code on the web, compiling C++ into
-    JavaScript, and look at the gaps that need to be filled.  A number of intertwined topics
-    will be touched on, including: Emscripten, PNaCl, pepper.js, JS VM and browser internals,
-    web workers, nitty-gritty details of JavaScript and C++, multi-threaded programming, and
-    the horror of memory models.  All will be explained, as long as you’re willing to take the plunge.
+    Summary: through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps.
   bio: >
-    Nick is a software engineer working on Chrome at Google.  He is the author of pepper.js,
-    a library that allows Native Client applications to be compiled into JavaScript. He is
-    currently trying to figure out how to make native code work on the web, and make it work well.
-    In his spare time he thinks about compilers, domain-specific languages, and good chocolate.
+    Web Designer and Front-End developer with over ten years of experience in software development, including web applications, mobile, desktop & digital TV.
 
-- firstname: Christoph
-  lastname: Burgmer
+    Currently working at CESAR (Recife Center for Advanced Studies and Systems), which is amongst the top IT innovation institutes in Brazil,  having participated in relevant projects for large customers, such as Samsung, Motorola, HP, Coca-Cola and Fiat Chrysler.
+
+    Being a Front-End evangelist, he likes to spend his time sharing his knowledge and presenting lectures on this subject. Also works at CESAR's Educational Branch, called CESAR EDU, where he teaches some online courses as well as face-to-face classes on the post-graduation degree in "Interaction design for mobile devices", such as "Rich Internet Applications" applied with HTML5, CSS3 and JavaScript, "Responsive Web Design", among other academic and mentoring initiatives.
+
+    As a fun, dynamic and versatile person, his hobbies can vary from science & technology to art & music, surfing & skating.
+
+- firstname: Kate
+  lastname: Hudson
   visible: true
-  smurl: http://github.com/cburgmer
-  smtype: github
-  smhandle: cburgmer
-  title: Hacking a HTML renderer in plain browser-side JS
-  body: >
-    How do you get the browser to render arbitrary HTML to a canvas? Sounds easy? We would beg to disagree.
-
-
-    While implementing an “HTML renderer” in pure JavaScript we will visit various areas of the modern browsers. Some ugly, some hacky, some really perverted, but definitely intriguing and powerful.
-  bio: >
-    I love building things around software. Much of it in JavaScript for the web.
-    You'll find me hacking on Open Source while either contributing here, or
-    starting new stuff there. Apart from that, I love languages.
-
-- firstname: Kawandeep
-  lastname: Virdee
-  visible: true
-  smurl: http://twitter.com/whichlight
+  smurl: http://twitter.com/k88hudson
   smtype: twitter
-  smhandle: "whichlight"
-  title: "Open Web Art: JavaScript for Interactive, Collaborative, and Hackable Art"
-
+  smhandle: k88hudson
+  company: Mozilla
+  title: "Beyond Responsive: Building a mobile web you're f*ing proud of"
   body: >
-    Interactive art can be a powerful means to inspire conversations, creativity,
-    and wonder among groups of people. It is now easier to build interactive and
-    collaborative apps with JavaScript, and these features can be used for expressive
-    works.  I'll describe using JS to make web art, as well as installation and
-    projection art.  Because of web standards as well as browser performance
-    improvements, you can make JS art that is accessible on a variety of platforms.
-    The openness of the JavaScript community inspires the openness of creative coding
-    in JavaScript, producing works that invite exploration, learning, and hacking.
-  bio: >
-    Kawandeep Virdee is an open web artist, immensely inspired by the sharing
-    and collaboration of the JavaScript community. He uses technology and art
-    to explore ways we can create meaning and joy collectively. At Embedly, he
-    is a product designer and developer advocate. He is co-founder of the public
-    art group New American Public Art, which has installed interactive work
-    around Boston and the US. He is a trustee of the Boston chapter of the
-    Awesome Foundation, advocating for works involving open technology and
-    public joy. Tech art talks and workshops include the Art Institute of
-    Boston, MIT, Betascape, the Newcastle Connected Communities Symposium, and
-    Robotsconf. He blogs at [blog.whichlight.com](http://blog.whichlight.com)
-    and cultivates the tech art scene around Boston through Boston Creative
-    Coders.
+    Making the mobile web platform better, both for ourselves and for the next two billion users, is one of the most important challenges of our careers. It's not enough to rely on standards organizations and browser vendors to solve our technical and cultural problems. We've got to do more.
 
-- firstname: Guy
-  lastname: Bedford
+    I'm going to take a look at solving problems such as performance, routing, and offline experiences by circumventing the DOM, building hybrid Android apps, and using persistent background queues. Not that these approaches will solve all your problems – but rather, help you set new benchmarks, give greater clarity and direction to the bugs you file on browser vendors, and ultimately get you better results.
+
+    By making bold technical decisions, we move the web forward. Instead of improving and optimizing the problematic paradigms/assumptions under which the web was built, we should borrow patterns from other mobile platforms or invent new ones. We also need to understand how the experience of coming online for the first time will be very different for the next generation of primarily non-North American mobile users.
+  bio: >
+    I work with Javascript, Android and humans – humans are the most challenging. Lately I've been interested in mobile performance, automation, and adding more cute animals to my  Twitter feed, but I'm up for anything.
+
+
+- firstname: Mariko
+  lastname: Kosaka
   visible: true
-  smurl: http://twitter.com/guybedford
+  smurl: http://twitter.com/kosamari
   smtype: twitter
-  smhandle: "guybedford"
-  title: Package Management for ES6 Modules
+  smhandle: kosamari
+  company: BrooklynJS
+  title: Knitting for Javascripters
   body: >
-    How does the transition into ES6 modules work for browsers exactly? How do
-    we enable modular version-managed front-end architecture in the process?
+    TL;DR : Knitting is very similar to programming. Learn knitting process to be better programmer and apply your programing skill to knit.  Learn to plan better and be patient by knit, then make your code generate knitting pattern and control your knitting machine with Javascript.
 
+    Knitting is a process where your brain interpret and your hand execute kind of code we call knitting pattern. (This looks like code isn't it? -> "Row 3: sl1, inc 1, *k to 1 st before marker, inc 1, k1, slip m, k1, inc 1, repeat from * to last stitch, inc1, k1 [38(44) sts]")
+    Output of this process is a series of 1s & 0s (knit & purl stitches) which creates beautiful object.
 
-    [jspm](http://jspm.io) provides almost-magical package management for JavaScript
-    built around the principles of version-managed ES6-modules and the dynamic ES6 module
-    loader from the core.
+    Both have surprisingly similar learning process. It's easy to start and many people pick up in few hours to few days, but there are some hurdles before you can create your own libraries (or knitting patterns).
+    One of the hurdle is understanding how interpreter works and create appropriate algorithm. Knit pattern making is similar to coding - it starts simple, you make smaller patterns and repeat over it to create larger pattern. But if you don't plan well, it will end up messy.
 
-
-    In short, jspm starts off by making ES6 modules work dynamically in browsers today
-    through the dynamic ES6 Module Loader polyfilll, then we make all existing module
-    formats work through this same loader, then then we add offline build workflows
-    for production and a command-line package manager to allow modular dependency management.
-    Finally turn the whole thing around and add a CDN with server-push, and you have
-    install-free version-managed module loading in the browser.
+    Traditionally, knitters has done this on graph paper by hand, but we are programmers, let's use your computers to this task for us. Plus, who wouldn't want to convert own pixel art to knitting pattern? or better yet, program knitting machine to knit it for you.
   bio: >
-    Guy is currently working on a number of open source projects relating to
-    module loading and package management in the browser.  He is the author of
-    jspm and SystemJS, and co-authored the ES6 Module Loader polyfill. Based in
-    Cape Town, South Africa, he also enjoys spending time in the US and works
-    as a freelance web developer.
+    Mariko is an engineer living in New York City.  When she is not making internal tools at Percolate,  she uses JavaScript to help her knit and organize local meetup BrooklynJS.
 
-- firstname: Jake
-  lastname: Verbaten
+- firstname: Naveed
+  lastname: Ihsanullah
   visible: true
-  smurl: http://twitter.com/Raynos
+  smurl: http://twitter.com/naveedi
   smtype: twitter
-  smhandle: "Raynos"
-  title: NPM-style Frontend
+  smhandle: naveedi
+  company: Mozilla
+  title: Parallelism experiments in JavaScript
   body: >
-    This talk is about a modular frontend which is an approach not common to most frontend developers. No jQuery, no frameworks. Instead many small, simple abstractions are used, published to npm and bundled with browserify.
+    With the amazing performance of modern single threaded JavaScript how can we catch up in parallelism?
+
+    Today’s hardware provides specialized instructions that can operate on data in parallel and provides multiple execution units that can run code in parallel. The single threaded nature of classic JavaScript cannot take advantage of these resources. When quad-core smartphones are already available today that leaves a lot of performance potential on the table.
+
+    I will share work we are doing to extend JavaScript with flexible and powerful primitives for parallelism that will unlock new performance opportunities to the Web. Let’s explore how native code concepts like shared memory and execution synchronization could work in JavaScript. With great power comes great responsibility so I will touch on some mitigation strategies we have in place to make sure tomorrow’s web applications stay well behaved as they use all the horsepower your hardware can provide.
 
 
-    The NPM-style frontend prefers modularity and simple abstractions that do one thing well.  THis talk includes:
-
-     * Various approaches to creating standalone "components" or "widgets" that are published to npm, including styles & templates.
-     * How to compose various modules together to build your own "framework" with your own trade offs.
-     * How to compose an application from smaller applications
-     * Build small UI components with thin interfaces that you glue together in your application.
-
-
-    Your entry point is small, containing the minimal glue code and each UI component addresses its own concerns.
   bio: >
-    Raynos is a Javascript Hacker, author of over 250 modules on npm. In his
-    spare time he works on all kind of projects from writing server-less
-    application on top of WebRTC to implementing FRP in javascript. As a big fan
-    of node.js do one thing well philsophy he's been conquering web development
-    one small module at a time.
+    Naveed is an Engineering Manager at Mozilla leading their JavaScript and Low Level Tools teams. He is intensely focused on making the web platform the best platform for all development. Step one is functional parity with native code in a web friendly way. Step two… profit?
 
-- firstname: Nico
-  lastname: Bevacqua
+    Naveed has decades of experience in building low-level development tools, reverse engineering, cyber security, web development and enterprise knowledge management. He also enjoys dabbling in the Arduino platform, cycling, playing guitar badly and working his way through Will Durant’s Story of Civilization. Follow his adventures @naveedi
+
+- firstname: Ashley
+  lastname: Williams
   visible: true
-  smurl: http://twitter.com/nzgb
+  smurl: http://twitter.com/ag_dubs
   smtype: twitter
-  smhandle: "nzgb"
-  title: Front End Ops Tooling
+  smhandle: ag_dubs
+  company: Bocoup
+  title: "If you wish to learn ES6/2015 from scratch, you must first invent the universe"
   body: >
-    This talk covers build tooling, processes, and your development workflow. You'll
-    get a glimpse as to why you should be building, and why you should put together a
-    build process from the get-go. Then we'll move on to tooling. Here I'll discuss
-    some of the most popular JavaScript build tools, namely Grunt, Gulp, and npm.
+    Javascript has always been a language with very little syntactic sugar—for better or worse. With ES6/2015, and future iterations,though, Javascript is gaining a more and more abstract and expressive syntax. To some it might appear that our language—which already seems accessible and approachable for beginners— is becoming even more accessible and approachable.
 
+    However, both the humanities and CS education research have proven that abstraction, while a powerful tool for knowledgeable practitioners, can be an equally powerful foil for beginners. As we enter the era of language-level abstractions in ES6/2015, we are charged with the task of rethinking how we teach JavaScript.
 
-    We'll investigate how each one performs for certain tasks, and I'll help you forge
-    your own build sword. Lastly, I'll discuss the benefits of going for the module
-    format Node.js uses, which is Common.js, and how you can leverage those modules
-    in the browser, using a tool called Browserify.
+    Through an interdisciplinary montage I will identify the problem of teaching abstraction as a ubiquitous demand across nearly every domain, and align the issues of creativity and critical thinking in the humanities with issues in computer science. The talk will conclude with a discussion of how the discipline of computer science and that of the humanities can inform each other to produce more effective and creative solutions to both developing and teaching abstractions.
   bio: >
-    Nico is an enthusiastic full-stack developer based in Buenos Aires,
-    Argentina, where he spends his days with the love of his life. When he's not
-    hacking as a full stack developer, Nico spends his time writing content for
-    [Pony Foo](http://blog.ponyfoo.com); or his upcoming book, named
-    [JavaScript Application Design](http://bevacqua.io/bf). Nico is a happy
-    pony, and you can find him as [@nzgb](http://twitter.com/nzgb) on Twitter,
-    because xkcd.
+    Ashley Williams is an Open Web Engineer and Educator at Bocoup. Formerly a NYC Teaching Fellow, Ashley learned the ropes teaching middle school science in Harlem, NYC. Since then, she has spent the vast majority of the past few years teaching web development to beginners, most notably running the NYC Web Development Fellowship in its flagship year. When not headlong in a discussion about pedagogy, she is probably getting seriously fired up about philosophy, language, systems, and/or jokes.
 
-- firstname: Jordan
-  lastname: Matthiesen
+- firstname: Tracy
+  lastname: Hinds
   visible: true
-  smurl: http://twitter.com/JMatthiesen
+  smurl: http://twitter.com/hackygolucky
   smtype: twitter
-  smhandle: "JMatthiesen"
-  title: Modern mobile app tool-chains
+  smhandle: hackygolucky
+  company: Urban Airship
+  title: Re-examining recipe search--a dash of sugar, just a smidgen of graph database
   body: >
-    There are many tools you can use to create mobile apps with JavaScript; tools like Apache Cordova, Ripple, the Cordova CLI, emulators, and a myriad of JavaScript libraries. In the Visual Studio team, we set out to make app building using Cordova a little easier, curating a set of these tools for developers using a single development environment. In this session, I'll walk you through the tool-chain and show you how we tied them all together using JavaScript and open source. You may discover a few new tools along the way and you’ll get some insight into how we combined pre-existing tools with unique capabilities.
+    I’m starvin’. I throw open my laptop, and search by what I've got in the house to minimize me running to the store. I'm craving a flavor, not necessarily a cuisine. Some southern food has its origins in West African food. How do recipe searches address this? How do we combine curation of good recipe content with better search to avoid having to build a recommendation engine?
+
+    In this talk, we’ll take a look at the current state of web recipe discovery and how I naively tried to come up with an alternative with brute JavaScript force and graph-databasing; like baking a souffle for a dinner party and doing a no-fall dance before it comes out of the oven. Plan for the worst and be delighted when it doesn’t happen(or chuckle when it does)!
   bio: >
-    A web developer turned Program Manager on the Microsoft HTML 5/JavaScript tools team working on JavaScript editing and multi-device client development tools
+    Tracy is a cat herder of JavaScript events(of the people variety). In her spare time, she’s on her 6th life as a Web Engineer at Urban Airship. While never a butcher nor a candlestick maker, in prior lives she has been a baker, a restaurant manager, and addictions clinic coordinator. She’ll try just about anything once(kayaking down a waterfall and boiled peanuts fall into that category) and especially likes rock climbing--which may explain why she’s quickly coming up on her 9th life.
 
-- firstname: Ryan
-  lastname: Florence
-  visible: true
-  smurl: http://twitter.com/ryanflorence
-  smtype: twitter
-  smhandle: "ryanflorence"
-  title: Embularactymerbone
-  body: >
-    Ember, Angular, React, Polymer, and Backbone. Following in
-    jQuery's footsteps, these projects (and others) are helping to drive
-    some future APIs in the browser.
-
-
-    While they all get lumped into the category "Frontend MVC", an intimate
-    look at each reveals they are quite different. These stark and subtle
-    differences matter when choosing one for your project.
-
-
-    In this session, you'll see each project's sweet spot, and where each
-    struggles. You'll get a healthy dose of code as we explore the primary
-    APIs. You will walk away with a better understanding of the goals and
-    intended use-cases for each project.
-  bio: >
-    I'm a software engineer from Salt Lake City, Utah. I have been
-    creating websites since the early 90's and currently work as a software
-    engineer @instructure
-
-- firstname: Spike
-  lastname: Brehm
-  visible: true
-  smurl: http://twitter.com/spikebrehm
-  smtype: twitter
-  smhandle: "spikebrehm"
-  title: Building Isomorphic Apps
-  body: >
-    After building more and more rich and complex JavaScript apps at Airbnb,
-    we started to see the single-page app approach break down.  The language
-    and environment barriers between our Rails server and fat client app caused
-    code duplication and the lack of server-side rendering led to slow initial
-    page load performance and SEO headaches.
-
-
-    The dream of a shared UI layer and reusable business logic led us to start
-    experimenting with ways to bring these apps back to the server.  We started
-    by converting our mobile web site, a Backbone app, to also run on Node.js and
-    Express, which led to the open-source Rendr library.  Since then we’ve learned
-    a lot and have begun to refine our understanding of "isomorphic JavaScript".
-
-
-    There are a wide range of approaches which might be considered
-    "isomorphic" — an app could share just a few tiny modules of business logic, or
-    just templates, or route definitions; or it might try to share the entire application code.
-    The more code that is shared, the more abstractions have to be built to shim the differences
-    between the very dissimilar environments of web browser and server, and the more
-    complex and tightly-coupled the result will be.
-
-
-    This talk will give some broader context for isomorphic JavaScript, show some real world
-    examples, explain common application patterns for isomorphic apps, and then dive into the
-    open-source tools and libraries that you can use to build isomorphic apps: libraries like
-    Handlebars and Superagent and build tools like Browserify and Esprima.
-  bio: >
-    Spike Brehm is a web engineer at Airbnb. He's currently prototyping the
-    next generation of Airbnb's front end stack, tackling the problem of
-    \isomorphic JavaScript\ -- building apps that have the flexibility to run
-    on both the client and server using the same codebase. When not busy
-    maintaining Rendr, Airbnb's library for isomorphic JavaScript apps, Spike
-    spends his time enjoying San Francisco.
-
-- firstname: Marco
-  lastname: Rogers
-  visible: true
-  smurl: http://twitter.com/polotek
-  smtype: twitter
-  smhandle: "polotek"
-  title: Finding Patterns Across Front-end Frameworks
-  body: >
-    We're all building a client-side framework. And they're all different implementations
-    of the same stuff. I want to compare the approaches that popular frameworks take to
-    solving these patterns. If they even try to solve them at all. I also want to include
-    info about the custom framework that Yammer uses. It'll be illustrative to see how all
-    of these have different approaches to the same set of patterns.
-  bio: >
-    Marco is an engineer who loves building things for the web. He's been doing
-    server-side javascript since before it was cool (and before it was node).
-    But he spends most of his time in the browser these days as Front-end
-    Engineering Lead at Yammer. You can find him as
-    [@polotek](http://twtiter.com/polotek) almost everywhere online. He also
-    tweets occasionally.
-
-- firstname: Ryan
-  lastname: Paul
-  visible: true
-  smurl: http://twitter.com/segphault
-  smtype: twitter
-  smhandle: "segphault"
-  title: Composing frontend Web applications with MontageJS
-  body: >
-    MontageJS is an open source framework for building large single-page Web applications. The framework's unique component model can simplify frontend Web development and increase opportunities for code reuse. In this session, you will learn how to take advantage of the MontageJS component system to build modular Web apps that are easy to maintain as they grow. The presentation will illustrate how component-based composability strengthens frontend Web development.
-  bio: >
-    Ryan Paul is head of Developer Relations at Montage Studio, a startup dedicated
-    to helping developers build large frontend Web applications with reusable
-    components. He is a Linux enthusiast and open source software developer.
-    Ryan also writes articles about software development for Ars Technica, a popular
-    technology news site.
-
-- firstname: Brian J.
-  lastname: Brennan
-  visible: true
-  smurl: http://twitter.com/brianloveswords
-  smtype: twitter
-  smhandle: "brianloveswords"
-  title: Being Human
-  body: >
-    We spend so much time building things that we sometimes forget that
-    we're building for, and with, other complex human beings. Remembering
-    that we are people first is the first step to making a positive shift in
-    the way we treat each other.
-  bio: >
-    Brian is a bassist, an event organizer of BrooklynJS, a mentor of NodeSchool,
-    and a cat owner. When he's not being one of those other things, he's a software
-    architect at Mozilla working on the OpenBadges project
-
-- firstname: Bodil
-  lastname: Stokke
-  visible: true
-  smurl: http://twitter.com/bodil
-  smtype: twitter
-  smhandle: "bodil"
-  title: Reactive Game Development For The Discerning Hipster
-  body: >
-    To most people in JS, functional programmers are perceived as academic hipsters raving about things like applicative functors, semigroup homomorphisms and Yoneda lemmas for no good reason except to make the rest of us feel stupid. And this is fair; there's no better way to make you feel pitifully mainstream than throwing category theory at you. Conversely, JS programmers tend to believe functional programming, therefore, can have no real world application because nobody in the real world has any idea what a Yoneda lemma is and they seem to be getting by just fine without it.
-
-
-    Except we aren't. We've been living in callback hell for almost two decades now, and no matter how many control flow libraries we submit to npm, things don't seem to be getting any better. And that's where functional programming comes in—turns out callbacks are just functions, and those academics in their ivory towers with their Haskell compilers actually encountered and solved these problems long ago. And now we can have their solutions in JS too, because of functional reactive programming. To demonstrate, I'll attempt to write a browser based game, from scratch, with ponies, using RxJS, everybody's favourite reactive library, live on stage in 30 minutes with no callback hell in sight. And we'll be finding out if this reactive stuff is all it's cracked up to be or not.
-  bio: >
-    Bodil is a compulsive conference speaker in the fields of functional programming
-    and internets technologies, and is a co-organiser of multiple developer conferences
-    in Scandinavia and the UK, mostly because she’s still learning how to stop. She is a
-    prolific contributor to the Free Software community, and has recently taken up
-    designing new programming languages as a hobby. In her spare time, she works as a
-    developer for Future Ad Labs, a London based startup that wants to make advertising
-    a productive member of society. Her favourite pony is Pinkie Pie.
-
-- firstname: David
-  lastname: Calhoun
-  visible: true
-  smurl: http://twitter.com/franksvalli
-  smtype: twitter
-  smhandle: "franksvalli"
-  title: Realtime Satellite Tracking in the Browser
-  body: >
-    In 1980 the United States Department of Defense (DoD) released the equations and source
-    code used to predict the positions of satellites around the Earth.  These simplified
-    perturbations models (SGP4) were originally written in FORTRAN IV and have since been
-    ported to C++, Java, MATLAB, and Pascal.  And now, with a JavaScript port, it's time to
-    bring satellite tracking to the browser!
-
-
-    In this talk we'll learn how to use existing tools to calculate and plot realtime
-    satellite positions on a map using Leaflet.js and satellite.js.  Along the way we'll
-    sneak in some orbital mechanics concepts, minus a lot of the hardcore math.
-
-
-    Perturbations, polar orbits, orbital eccentricity, Kepler’s laws, orbital propagation,
-    oh my!
-
-
-    We will also learn about the pitfalls of 2D map projections, and why a 3D projection
-    is more accurate and intuitive.  If there's time, we'll go one step further and build
-    a 3D satellite tracker using WebGL.
-  bio: >
-    David Calhoun is a UI engineer working at Skybox Imaging in Mountain View, using open web technology to build interfaces for satellite imagery and video processing, a satellite imagery scheduling interface, and a websocket-powered telemetry dashboard.  Prior to that he's worked on the Node.js-backed CNET mobile website, as well as Yahoo! Mobile.  He also occasionally contracts for WebMocha.
-    Most recently he's lived in Kyoto, Japan for a year, which was an amazing and humbling experience.
-    He tweets at @franksvalli and writes longer stuff at ([davidbcalhoun.com](http://davidbcalhoun.com)), and was even once lucky enough to be published in Web Performance Daybook Volume 2.
-
-- firstname: Jenn
-  lastname: Turner
-  visible: true
-  smurl: http://twitter.com/renrutnnej
-  smtype: twitter
-  smhandle: "renrutnnej"
-  title: Lessons in Emotional Safety FTW
-  body: >
-    Emotional safety is the most important predictor of the health of an organization and a community.
-    But more importantly, it has a enduring repercussions on our lives as individuals.
-    Like, our real lives—the ones we live for our whole lives.
-
-
-    I've worked in intensely unsafe professional environments prior to joining the team at [&yet](http://andyet.com/).
-
-
-    I'd like to candidly share some of the lessons I've learned from my unique perspective as a female who isn't a
-    software developer but who spends much of her life around them
-    (including co-organizing events like RealtimeConf, RedisConf, and TriConf).
-
-
-    Being "in the developer world but not of it" has given me perspective to identify blind spots within
-    our culture as a company and a community. Traditionally copywriters on a software team are viewed as a
-    supporting role: we help sell what gets made. But what if all contributors to a team were true equals
-    capable of leading and shaping a continuously improving company culture? That's the foundation of emotional safety.
-
-  bio: >
-    By day, Jenn works at [&yet](http://andyet.com) as the Chief Jenn Officer,
-    contributing to the departments of marketing, design, editorial, internal
-    affairs, conference organization, awesome, and user experience.
-
-
-    By night, she spends her time tweeting sporadically as
-    [@renrutnnej](http://twitter.com/renrutnnej), starts the beginnings of many,
-    many side projects, conducts mini-experiments with code, and hangs out with
-    her two favorite people in the whole world wide web: Lee and Mila.
-
-- firstname: Travell
-  lastname: Perkins
-  visible: true
-  smurl: https://twitter.com/travellperkins
-  smtype: twitter
-  smhandle: travellperkins
-  title: Battle Hardened Node.js for the Enterprise
-  body: >
-    What does enterprise grade server-side Javascript look like?   Do you work at a large org over 2000 people that probably is a Java or .Net shop?  Could you be better served leveraging the cloud and the vibrant Node.js community for some projects?  Do you need to convince your boss?
-
-
-    At Fidelity we have several security/quality checkpoints across many departments to validate that applications and platforms protect customer data.  Security code reviews, penetration test, risk audits, legal compliance and many other factors go into signing off on  an application.  Fidsafe is a new virtual safe deposit box offering by Fidelity that is the first application to be served outside the Fidelity firewall on the cloud.  Fidsafe challenges every aspect of how the organization builds and deploys software.  We had to answer a lot of questions and provide practical tooling/solutions to get Node into production.
-
-
-    We will cover what it takes from top to bottom build and operate a secure and scalable service backend implemented in Node.js and deployed to AWS.  Topics covered:
-
-
-    * Node Process Management
-      * Lifecycle management – Upstart and Forever
-      * Smart defaults for scalability and uptime
-      * Reactor — How we use cluster to scale across cores
-    * Hardened Express
-      * End to End Javascript — CouchDB / MongoDB
-      * Layering security using middleware
-      * Strategies for bulletproof cookies
-      * SSL termination strategies
-      * Authenticating end-users and API consumers
-    * Building a Secure PaaS — A brief overview
-      * If you want it to be secure you have to build your own. What's the minimum you need for Node?
-      * Devops in across organizational boundaries — AWS, Python, Boto, AMIs, and Asgard
-      * Ubuntu as PaaS — real solutions are diverse and polyglot
-
-  bio: >
-    Travell is a CTO at Fidelity Investments and is a leading evangelist for wide spread adoption of Node.js within the organization.  He delivered Fidsafe, a virtual safe deposit box to market for the organization and is now applying Node and other Javascript technologies to more core offerings.  Travell has over 10 years of experience building systems for financial services and enjoys stock portfolio management in his spare time.  Other hobbies include cycling, fast cars,  zombies, tech blogs, and hacking on side projects. Travell works and plays in Downtown Boston, you can follow him @travellperkins
-
-- firstname: Neil
-  lastname: Green
-  visible: true
-  smurl: https://twitter.com/neilfeyn
-  smtype: twitter
-  smhandle: neilfeyn
-  title: Writing Custom DSLs
-  body: >
-    When writing complex business logic, it is critically important to maintain clean code though the judicious applications of Test Driven Development and Domain Driven Design.  However, even these powerful techniques fall short of solving the problem at the heart of building complex software: building what the customer actually wants.
-
-
-    Domain Specific Languages (DSLs) allow us to capture complex business requirements in code written in the language of the customer.  Once an ubiquitous language between you and your customer is defined and implemented as a DSL, the code can quite literally be given back to the customer to edit and refine.   This is not a theory, or a myth.  I have done this under real-world constraints and deadlines, and you can as well.
-
-
-    JavaScript's ability to blend Object Oriented and Functional Programming paradigms makes it an ideal language for authoring custom DSLs.  Unfortunately, too often developers are unclear on how to identify when a custom DSL is an appropriate solution, and when it is, how to go about writing one.  I will take you through the process of developing a few different custom DSLs from planning to implementation, as well as how to performance tune and debug your new custom language.   My hope is that you will gain a powerful tool for managing complex software that will keep you sane, and your customers happy.
-  bio: >
-    Neil works as a lead developer at IntercontinentalExchange (ICE), a global network of exchanges and clearing houses for financial and commodity markets, which recently acquired the New York Stock Exchange.  He is the UI architect of ICE's social, messaging, and app integration platform, and lead implementer of the platform's core systems.  Neil's true passion lies in coaching engineers on the practical application of software engineering and architectural design principles under the real-world situations common in developing mission-critical enterprise software.
-- firstname: Jenn
-  lastname: Schiffer
-  visible: true
-  smurl: https://twitter.com/jennschiffer
-  smtype: twitter
-  smhandle: "jennschiffer"
-  title: "What's the Harm In Sorting: Sanitizing Inputs For More Optimized JavaScript"
-  body: >
-    NaN
-  bio: >
-    Jenn Schiffer is a web developer. From the early age of 37 she held the
-    amulet of scripts from which the soul of the Node baby cries. The noises
-    had awoken the spirits from whic
-- firstname: Angelina
-  lastname: Fabbro
-  visible: true
-  smurl: https://twitter.com/angelinamagnum
-  smtype: twitter
-  smhandle: "angelinamagnum"
-  title: "Improving 2D & 3D Canvas Performance on the Web, One Frame at a Time"
-  body: >
-    New to working with <code>&lt;canvas&gt;</code>? Never fear, we'll give you a light introduction to some of the high-level concepts about working in 3D space and go through some minimal examples before we do a deep dive into grittier details. We'll look at in-browser tools as well as plugins found in multiple browser ecosystems: not just one, because the web is everywhere and your game should be too.
-
-    We'll talk about how to debug and improve the performance of both 2D and 3D canvas contexts, including WebGL code. Though we will be talking largely about games, we'll also look at chart libraries as well and discuss using canvas as compared to SVG. Even if you're only working with a 3rd party library, you need to know how to profile performance and spot jank, as well as what action to take when you find it. You'll learn how to mitigate the overhead of doing a lot of 3D math, as well as how to get good performance on low-end devices.
-  bio: >
-    Angelina Fabbro is a web developer and engineering developer advocate at Mozilla. Full stack development, programmer education, and crafty hacks. Plays well with others. Do not taunt happy fun ball.
-
-- firstname: Marcus
-  lastname: Phillips
-  visible: true
-  smurl: http://twitter.com/mracus
-  smtype: twitter
-  smhandle: mracus
-  title: JSConf Training Track
-  body: >
-    Hack Reactor is running the training track on Wednesday and Friday this year. It aims to get newbies and professionals alike up to speed with a diverse range of JavaScript topics from Node.js to the language fundamentals.
-  bio: >
-    Marcus is the CTO/Head of Instruction at Hack Reactor. Formerly at Twitter, Marcus led several technical training initiatives and worked on the company's JavaScript framework internals. Marcus directs the Hack Reactor curriculum and the software that supports it.
