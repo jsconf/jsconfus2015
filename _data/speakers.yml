@@ -218,13 +218,13 @@
 - firstname: Felipe
   lastname: de Albuquerque
   visible: true
-  smurl: https://plus.google.com/114759529902579393274/posts
-  smtype: google-plus
-  smhandle:
+  smurl: https://twitter.com/felipedeolinda
+  smtype: twitter
+  smhandle: felipedeolinda
   company: CESAR
   title: "Accessibility and JS: side-by-side"
   body: >
-    Summary: through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps.
+    Through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps.
   bio: >
     Web Designer and Front-End developer with over ten years of experience in software development, including web applications, mobile, desktop & digital TV.
 
@@ -263,7 +263,7 @@
   body: >
     Wouldn't it be cool if you could "print out" your own javascript generated bitmap art as a knitted scarf ?  Well, you can !
 
-    Knitting textiles is a lot like programing computers. You write your knit pattern (code), your brain compiles it, and your hands render knit stitches (1s) and purl stitches (0s). It means you can decipher knitting nomenclature like "k2, m1L, k1, m1L, k until 3 sts remain,  m1R, k1, m1R, k2" into JavaScript. This talk will cover how you can program knitting patterns in JavaScript and then use an electronic knitting machine from the 1980's to make beautiful knitted textiles. 
+    Knitting textiles is a lot like programing computers. You write your knit pattern (code), your brain compiles it, and your hands render knit stitches (1s) and purl stitches (0s). It means you can decipher knitting nomenclature like "k2, m1L, k1, m1L, k until 3 sts remain,  m1R, k1, m1R, k2" into JavaScript. This talk will cover how you can program knitting patterns in JavaScript and then use an electronic knitting machine from the 1980's to make beautiful knitted textiles.
   bio: >
     Mariko is an engineer living in New York City.  When she is not making internal tools at Percolate,  she uses JavaScript to help her knit and organize local meetup BrooklynJS.
 
