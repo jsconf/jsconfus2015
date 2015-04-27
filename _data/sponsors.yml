@@ -123,6 +123,20 @@
     to produce incredible results. Say no to meetings, paperwork and middle
     management, and yes to building great things.
 
+- name: Atlassian
+  visible: true
+  short: atlassian
+  logo: atlassian.png
+  url: https://developer.atlassian.com/
+  event: NodeRockets
+  description: >
+    Atlassian products help innovators everywhere plan, build and launch great
+    software. More than 50,000 large and small organizations – including
+    Citigroup, eBay, Coca-Cola, Netflix and United Airlines – use Atlassian’s
+    issue tracking, collaboration and software-development products to work
+    smarter and deliver quality results on time. Atlassian products are also
+    extendable with Javascript and other technologies. Learn more
+    at [http://developer.atlassian.com](http://developer.atlassian.com).
 
 - name: Huge, Inc.
   visible: true
