@@ -156,9 +156,11 @@
   company: The Turing School of Software and Design
   title: Building a musical instrument with the Web Audio API
   body: >
-    Building a musical instrument with the Web Audio API: not just how to use the Web Audio API but some of the challenges of applying musical theory to basic frequencies. A4 is 440 and to go up an octave is 880. So, you'd think that all of the other notes follow some similar mathematical formula—but they don't because instruments with frets can't handle that. I'd like to do a talk that discussed not only how to use the Web Audio API but touched on how to build musical instruments using it and collaborating on music over the web.
+    When you weren't looking, someone stuck a synthesizer into your favorite web browser. The Web Audio API is widely supported and makes it easy—and more importantly, fun—to create, process, and control audio in the browser. We can spin up oscillators, adjust gain, tweak frequencies, and slap on some funky delay. Additionally, we can also take existing sounds and manipulate them to our heart's content. We can grab input from cameras and microphones and use them as we see fit. But, the fun doesn't stop there—we still have the rest of the browser's media APIs at our disposal.
+
+    We'll talk a little bit about the Web Audio API. We'll explore the browser as a vehicle for creative expression. We'll fire up some audio contexts and connect some nodes. We'll also leverage the getUserMedia Web API, WebSockets, and others to build unique musical instruments that could only be possible in the web browser. We'll not only talk about the API itself, but also some of the fundamental concepts for working with audio and making music.
   bio: >
-    Steve is originally from the great state of New Jersey and was a New York City public school teacher for seven years. These days, his bread and butter is teaching JavaScript at the Turing School of Software and Design in Denver, Colorado. In his copious free time, he teaches classes on web development with Girl Develop It.
+    Steve is originally from the great state of New Jersey. He was a New York City public school teacher for seven years, where he taught special education, science, and—eventually—JavaScript to students in high-need schools in Manhattan, Brooklyn, and Queens. These days, his bread and butter is teaching JavaScript to aspiring developers at the Turing School of Software and Design in Denver, Colorado. In his copious free time, he teaches classes on web development with Girl Develop It.
 
 - firstname: Samuel
   lastname: Saccone
