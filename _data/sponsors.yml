@@ -122,3 +122,22 @@
     is a "maker" culture that gives great designers and developers the freedom
     to produce incredible results. Say no to meetings, paperwork and middle
     management, and yes to building great things.
+
+- name: Huge, Inc.
+  visible: true
+  short: huge
+  logo: huge.png
+  url: http://www.hugeinc.com/
+  event: Golf Tournament
+  description: >
+    What happens when you hire skilled engineers who are passionate about their
+    craft, entrust them with vital responsibility and empower them with
+    autonomy? You get products people love to use. At Huge, we create
+    groundbreaking products for the world's most innovative companies. Through
+    creative iteration and honest collaboration, our cross-functional teams
+    tackle our clients' most demanding needs, from award-winning websites and
+    mobile apps to real-world digital experiences and top-secret hardware
+    prototypes ;). And, when our work is done, we get together to brew beer,
+    pilot drones and race 3D-printed rocket cars. So, if you feel compelled to
+    create, if you obsess over quality and if you enjoy every minute of it,
+    then join us and make something you love.
