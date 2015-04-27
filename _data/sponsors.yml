@@ -159,7 +159,6 @@
     [join us](http://www.hugeinc.com/careers/technology) and make something you
     love.
 
-
 - name: Mandrill
   visible: true
   short: mandrill
@@ -173,6 +172,7 @@
     can focus on making your app and the emails you send effective. Intuitive
     sending defaults, automatic tracking, and detailed activity logs provide
     the data you need, whether you’re a solo developer or a development team.
+
 - name: SauceLabs
   visible: true
   short: saucelabs
