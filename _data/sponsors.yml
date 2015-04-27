@@ -122,3 +122,17 @@
     is a "maker" culture that gives great designers and developers the freedom
     to produce incredible results. Say no to meetings, paperwork and middle
     management, and yes to building great things.
+
+- name: Mandrill
+  visible: true
+  short: mandrill
+  logo: mandrill.png
+  url: http://www.mandrill.com/
+  event: Brunch
+  description: >
+    [http://www.mandrill.com/Mandrill](http://www.mandrill.com/) is a reliable,
+    scalable and secure email infrastructure service for websites and
+    applications. We handle email delivery and reputation monitoring, so you
+    can focus on making your app and the emails you send effective. Intuitive
+    sending defaults, automatic tracking, and detailed activity logs provide
+    the data you need, whether you’re a solo developer or a development team.
