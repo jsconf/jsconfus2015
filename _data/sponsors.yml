@@ -137,3 +137,56 @@
     smarter and deliver quality results on time. Atlassian products are also
     extendable with Javascript and other technologies. Learn more
     at [http://developer.atlassian.com](http://developer.atlassian.com).
+
+- name: Huge, Inc.
+  visible: true
+  short: huge
+  logo: huge.png
+  url: http://www.hugeinc.com/
+  event: Golf Tournament
+  description: >
+    What happens when you hire incredible engineers who are passionate about
+    their craft, entrust them with vital responsibility and empower them with
+    autonomy? You get products people love to use. At
+    [Huge](http://www.hugeinc.com/), we create groundbreaking products for the
+    world's most innovative companies. Through creative iteration and honest
+    collaboration, our cross-functional teams tackle our clients' most
+    demanding needs, from award-winning websites and mobile apps to real-world
+    digital experiences and top-secret hardware prototypes ;). And when our
+    work is done, we get together to brew beer, pilot drones and race
+    3D-printed rocket cars. So if you are compelled to create, if you obsess
+    over quality and if you enjoy every minute of it, then come
+    [join us](http://www.hugeinc.com/careers/technology) and make something you
+    love.
+
+
+- name: Mandrill
+  visible: true
+  short: mandrill
+  logo: mandrill.png
+  url: http://www.mandrill.com/
+  event: Saturday Brunch
+  description: >
+    [http://www.mandrill.com/Mandrill](http://www.mandrill.com/) is a reliable,
+    scalable and secure email infrastructure service for websites and
+    applications. We handle email delivery and reputation monitoring, so you
+    can focus on making your app and the emails you send effective. Intuitive
+    sending defaults, automatic tracking, and detailed activity logs provide
+    the data you need, whether you’re a solo developer or a development team.
+- name: SauceLabs
+  visible: true
+  short: saucelabs
+  logo: saucelabs.png
+  url: http://saucelabs.com/
+  event: Pool & Beachside
+  description: >
+    Sauce Labs makes automated testing awesome. Our cloud-based platform helps
+    developers test native & hybrid mobile and web applications across 500+
+    browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports
+    Selenium, Appium and popular JavaScript unit testing frameworks, and
+    integrates with all of the top programming languages, test frameworks and
+    CI systems. With built-in video recording and screenshots of every test
+    case, debugging tools, and secure tunneling for local or firewalled
+    testing, Sauce makes running, debugging and scaling test suites quick and
+    easy. To get started for free, visit [saucelabs.com](http://saucelabs.com/).
+
