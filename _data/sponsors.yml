@@ -124,6 +124,28 @@
     management, and yes to building great things.
 
 
+- name: Huge, Inc.
+  visible: true
+  short: huge
+  logo: huge.png
+  url: http://www.hugeinc.com/
+  event: Golf Tournament
+  description: >
+    What happens when you hire incredible engineers who are passionate about
+    their craft, entrust them with vital responsibility and empower them with
+    autonomy? You get products people love to use. At
+    [Huge](http://www.hugeinc.com/), we create groundbreaking products for the
+    world's most innovative companies. Through creative iteration and honest
+    collaboration, our cross-functional teams tackle our clients' most
+    demanding needs, from award-winning websites and mobile apps to real-world
+    digital experiences and top-secret hardware prototypes ;). And when our
+    work is done, we get together to brew beer, pilot drones and race
+    3D-printed rocket cars. So if you are compelled to create, if you obsess
+    over quality and if you enjoy every minute of it, then come
+    [join us](http://www.hugeinc.com/careers/technology) and make something you
+    love.
+
+
 - name: Mandrill
   visible: true
   short: mandrill
