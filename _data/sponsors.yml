@@ -123,12 +123,13 @@
     to produce incredible results. Say no to meetings, paperwork and middle
     management, and yes to building great things.
 
+
 - name: Mandrill
   visible: true
   short: mandrill
   logo: mandrill.png
   url: http://www.mandrill.com/
-  event: Brunch
+  event: Saturday Brunch
   description: >
     [http://www.mandrill.com/Mandrill](http://www.mandrill.com/) is a reliable,
     scalable and secure email infrastructure service for websites and
@@ -136,3 +137,20 @@
     can focus on making your app and the emails you send effective. Intuitive
     sending defaults, automatic tracking, and detailed activity logs provide
     the data you need, whether you’re a solo developer or a development team.
+- name: SauceLabs
+  visible: true
+  short: saucelabs
+  logo: saucelabs.png
+  url: http://saucelabs.com/
+  event: Pool & Beachside
+  description: >
+    Sauce Labs makes automated testing awesome. Our cloud-based platform helps
+    developers test native & hybrid mobile and web applications across 500+
+    browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports
+    Selenium, Appium and popular JavaScript unit testing frameworks, and
+    integrates with all of the top programming languages, test frameworks and
+    CI systems. With built-in video recording and screenshots of every test
+    case, debugging tools, and secure tunneling for local or firewalled
+    testing, Sauce makes running, debugging and scaling test suites quick and
+    easy. To get started for free, visit [saucelabs.com](http://saucelabs.com/).
+
