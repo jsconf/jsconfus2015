@@ -190,3 +190,19 @@
     [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
     Delivery Network (CDN) made to satisfy your needs! Speed up your games,
     software delivery, advertisements, CMS, websites and many more.
+
+- name: Pebble
+  visible: true
+  short: pebble
+  logo: pebble.png
+  url: https://getpebble.com/
+  event: Nodeboats
+  description: >
+    Pebble is back again at JSConf! This year with the new Pebble Time watch,
+    breaking records again on Kickstarter. Just like its predecessors, the new
+    Pebble Time is water resistant, has an always on display, and up to a week
+    of battery life! The screen has been upgraded to support colors, the new
+    microphone is nifty, and the new timeline web APIs allow any web developer
+    to push events with notifications and actions to Pebble users. Writing apps
+    has never been so easy with our online IDE cloudpebble.net, complete with a
+    fully functional emulator, which supports C and JavaScript!
