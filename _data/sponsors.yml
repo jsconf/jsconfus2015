@@ -212,3 +212,25 @@
     Delivery Network (CDN) made to satisfy your needs! Speed up your games,
     software delivery, advertisements, CMS, websites and many more.
 
+- name: Availity
+  visible: true
+  short: availity
+  logo: availity.png
+  url: http://www.availity.com/
+  event: Track A
+  description: >
+    [Availity](http://www.availity.com/) is the engine driving health care
+    simplification and collaboration.
+
+    As an industry-leading, HITRUST-certified health information technology
+    company, Availity serves an extensive network of health plans, providers,
+    and technology partners nationwide through a suite of dynamic products
+    built on a powerful, intelligent platform. Availity integrates and manages
+    the clinical, administrative, and financial data needed to fuel real-time
+    coordination between providers, health plans, and patients in a growing
+    value-based care environment. Facilitating more than 7 million transactions
+    daily, Availity’s ability to provide accurate, timely, and relevant
+    information is vital to the financial success of its clients.
+
+    Everybody wins when health information is simplified. Learn more at
+    [availity.com](http://www.availity.com/)
