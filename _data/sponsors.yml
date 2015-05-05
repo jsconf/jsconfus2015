@@ -250,4 +250,20 @@
     Delivery Network (CDN) made to satisfy your needs! Speed up your games,
     software delivery, advertisements, CMS, websites and many more.
 
-
+- name: Cimpress
+  visible: true
+  short: cimpress
+  logo: cimpress.png
+  url: http://cimpress.com/
+  event:
+  description: >
+    [Cimpress](https://www.cimpress.com/) Cimpress is the world leader in mass
+    customization. Through unmatched technology, production and supply chain
+    operations, we offer products that can be personalized by an individual
+    customer and manufactured on demand: easily, with great quality, and at an
+    affordable price. Through Cimpress’ brands like Albelli, Drukwerkdeal, and
+    Pixartprinting, we empower more than 16 million customers annually to make
+    an impression. Whether it's customized apparel, marketing materials for a
+    business, or personalized photo products commemorating cherished family
+    moments, we create real, tangible products that mean something to real
+    people.
