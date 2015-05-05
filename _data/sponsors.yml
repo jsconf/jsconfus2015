@@ -23,6 +23,44 @@
     connectivity in the financial world for over two decades.
 
 
+- name: Pebble
+  visible: true
+  short: pebble
+  logo: pebble.png
+  url: https://getpebble.com/
+  event: Nodeboats
+  description: >
+    Pebble is back again at JSConf! This year with the new Pebble Time watch,
+    breaking records again on Kickstarter. Just like its predecessors, the new
+    Pebble Time is water resistant, has an always on display, and up to a week
+    of battery life! The screen has been upgraded to support colors, the new
+    microphone is nifty, and the new timeline web APIs allow any web developer
+    to push events with notifications and actions to Pebble users. Writing apps
+    has never been so easy with our online IDE cloudpebble.net, complete with a
+    fully functional emulator, which supports C and JavaScript!
+- name: Availity
+  visible: true
+  short: availity
+  logo: availity.png
+  url: http://www.availity.com/
+  event: Track A
+  description: >
+    [Availity](http://www.availity.com/) is the engine driving health care
+    simplification and collaboration.
+
+    As an industry-leading, HITRUST-certified health information technology
+    company, Availity serves an extensive network of health plans, providers,
+    and technology partners nationwide through a suite of dynamic products
+    built on a powerful, intelligent platform. Availity integrates and manages
+    the clinical, administrative, and financial data needed to fuel real-time
+    coordination between providers, health plans, and patients in a growing
+    value-based care environment. Facilitating more than 7 million transactions
+    daily, Availity’s ability to provide accurate, timely, and relevant
+    information is vital to the financial success of its clients.
+
+    Everybody wins when health information is simplified. Learn more at
+    [availity.com](http://www.availity.com/)
+
 
 - name: Telerik
   visible: true
@@ -90,6 +128,26 @@
     can focus on making your app and the emails you send effective. Intuitive
     sending defaults, automatic tracking, and detailed activity logs provide
     the data you need, whether you’re a solo developer or a development team.
+
+- name: Intent Media
+  visible: true
+  short: intentmedia
+  logo: intentmedia.png
+  url: http://intentmedia.com/
+  event: Scavenger Hunt
+  description: >
+    Intent Media operates the world’s most powerful platform for advertising
+    on commerce sites. We help online travel companies unlock their full
+    revenue potential with innovative, high-margin advertising products powered
+    by predictive analytics. Our customers include the world's largest online
+    travel agencies, metasearch companies, airlines, hotels and car rental
+    agencies.
+
+    Every day, we’re inspired by two pursuits. First, we’re imagining and
+    building novel products that are upending ecommerce. Second, we’re building
+    the company we’ve always wanted to work for — one that’s open, human and
+    collaborative, where very smart people come together to share ideas and
+    get things done.
 
 - name: SauceLabs
   visible: true
@@ -180,6 +238,7 @@
     technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
     delivering hands-on learning for the most in-demand jobs of today.
 
+
 - name: KeyCDN
   visible: true
   short: keycdn
@@ -191,18 +250,4 @@
     Delivery Network (CDN) made to satisfy your needs! Speed up your games,
     software delivery, advertisements, CMS, websites and many more.
 
-- name: Pebble
-  visible: true
-  short: pebble
-  logo: pebble.png
-  url: https://getpebble.com/
-  event: Nodeboats
-  description: >
-    Pebble is back again at JSConf! This year with the new Pebble Time watch,
-    breaking records again on Kickstarter. Just like its predecessors, the new
-    Pebble Time is water resistant, has an always on display, and up to a week
-    of battery life! The screen has been upgraded to support colors, the new
-    microphone is nifty, and the new timeline web APIs allow any web developer
-    to push events with notifications and actions to Pebble users. Writing apps
-    has never been so easy with our online IDE cloudpebble.net, complete with a
-    fully functional emulator, which supports C and JavaScript!
+
