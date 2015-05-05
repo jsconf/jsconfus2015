@@ -22,32 +22,7 @@
     communications platforms, true electronic social networking and workflow
     connectivity in the financial world for over two decades.
 
-- name: Facebook
-  visible: true
-  short: facebook
-  logo: facebook.png
-  url: http://www.facebook.com/
-  event: Bike Rentals
-  description: >
-    [Facebook](http://www.facebook.com/) is defined by our hacker culture - an
-    environment that rewards creative problem solving and rapid decision making.
-    We encourage people to be bold. Our open culture keeps everyone informed
-    and allows people to move around and solve the problems they care about
-    most. We work in small teams and move fast to develop new products,
-    constantly iterating and improving. The phrase “this journey is 1%
-    finished” is posted on our walls, reminding us that we’ve only begun to
-    fulfill our mission to make the world more open and connected.
 
-- name: Microsoft
-  visible: true
-  short: microsoft
-  logo: microsoft.png
-  url: http://www.microsoft.com/
-  event: The Maxx Arcade
-  description: >
-    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
-    the worldwide leader in software, services, devices and solutions that help
-    people and businesses realize their full potential.
 
 - name: Telerik
   visible: true
@@ -67,76 +42,6 @@
     Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
     [@telerik](https://twitter.com/telerik) on Twitter.
 
-- name: Respoke
-  visible: true
-  short: respoke
-  logo: respoke.png
-  url: https://www.respoke.io/
-  event: 80's Karaoke Studio
-  description: >
-    Respoke makes it easy to add live voice, video and messaging features to
-    your web or mobile app in minutes. Give your app a face and a voice at
-    [https://www.respoke.io/](https://www.respoke.io/)
-
-
-- name: Pluralsight
-  visible: true
-  short: pluralsight
-  logo: pluralsight.png
-  url: http://www.pluralsight.com/
-  event:
-  description: >
-    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
-    training for software developers, IT specialists and creative
-    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
-    delivering hands-on learning for the most in-demand jobs of today.
-
-- name: KeyCDN
-  visible: true
-  short: keycdn
-  logo: keycdn.png
-  url: https://www.keycdn.com/
-  event:
-  description: >
-    [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
-    Delivery Network (CDN) made to satisfy your needs! Speed up your games,
-    software delivery, advertisements, CMS, websites and many more.
-
-- name: WillowTree
-  visible: true
-  short: willowtree
-  logo: willowtree.png
-  url: http://www.willowtreeapps.com/
-  event:
-  description: >
-    Much more than a mobile app development company – WillowTree is a new breed
-    mobile engagement partner focused on creating great software to improve
-    users' lives. We work with clients such as GE, Johnson & Johnson and the
-    NBA to create the best mobile experience possible. WillowTree excels at
-    bleeding-edge projects that allow us to push boundaries and challenge
-    ourselves to keep evolving.
-
-    How do we do it? We hire the smartest and most passionate people in the
-    industry and give them what they need to keep growing and learning. We have
-    all the perks of other leading development shops, but what makes us unique
-    is a "maker" culture that gives great designers and developers the freedom
-    to produce incredible results. Say no to meetings, paperwork and middle
-    management, and yes to building great things.
-
-- name: Atlassian
-  visible: true
-  short: atlassian
-  logo: atlassian.png
-  url: https://developer.atlassian.com/
-  event: NodeRockets
-  description: >
-    Atlassian products help innovators everywhere plan, build and launch great
-    software. More than 50,000 large and small organizations – including
-    Citigroup, eBay, Coca-Cola, Netflix and United Airlines – use Atlassian’s
-    issue tracking, collaboration and software-development products to work
-    smarter and deliver quality results on time. Atlassian products are also
-    extendable with Javascript and other technologies. Learn more
-    at [http://developer.atlassian.com](http://developer.atlassian.com).
 
 - name: Huge, Inc.
   visible: true
@@ -158,7 +63,20 @@
     over quality and if you enjoy every minute of it, then come
     [join us](http://www.hugeinc.com/careers/technology) and make something you
     love.
-
+- name: Atlassian
+  visible: true
+  short: atlassian
+  logo: atlassian.png
+  url: https://developer.atlassian.com/
+  event: NodeRockets
+  description: >
+    Atlassian products help innovators everywhere plan, build and launch great
+    software. More than 50,000 large and small organizations – including
+    Citigroup, eBay, Coca-Cola, Netflix and United Airlines – use Atlassian’s
+    issue tracking, collaboration and software-development products to work
+    smarter and deliver quality results on time. Atlassian products are also
+    extendable with Javascript and other technologies. Learn more
+    at [http://developer.atlassian.com](http://developer.atlassian.com).
 - name: Mandrill
   visible: true
   short: mandrill
@@ -189,4 +107,86 @@
     case, debugging tools, and secure tunneling for local or firewalled
     testing, Sauce makes running, debugging and scaling test suites quick and
     easy. To get started for free, visit [saucelabs.com](http://saucelabs.com/).
+- name: Facebook
+  visible: true
+  short: facebook
+  logo: facebook.png
+  url: http://www.facebook.com/
+  event: Bike Rentals
+  description: >
+    [Facebook](http://www.facebook.com/) is defined by our hacker culture - an
+    environment that rewards creative problem solving and rapid decision making.
+    We encourage people to be bold. Our open culture keeps everyone informed
+    and allows people to move around and solve the problems they care about
+    most. We work in small teams and move fast to develop new products,
+    constantly iterating and improving. The phrase “this journey is 1%
+    finished” is posted on our walls, reminding us that we’ve only begun to
+    fulfill our mission to make the world more open and connected.
 
+- name: Microsoft
+  visible: true
+  short: microsoft
+  logo: microsoft.png
+  url: http://www.microsoft.com/
+  event: The Maxx Arcade
+  description: >
+    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
+    the worldwide leader in software, services, devices and solutions that help
+    people and businesses realize their full potential.
+
+- name: Respoke
+  visible: true
+  short: respoke
+  logo: respoke.png
+  url: https://www.respoke.io/
+  event: 80's Karaoke Studio
+  description: >
+    Respoke makes it easy to add live voice, video and messaging features to
+    your web or mobile app in minutes. Give your app a face and a voice at
+    [https://www.respoke.io/](https://www.respoke.io/)
+
+
+- name: WillowTree
+  visible: true
+  short: willowtree
+  logo: willowtree.png
+  url: http://www.willowtreeapps.com/
+  event:
+  description: >
+    Much more than a mobile app development company – WillowTree is a new breed
+    mobile engagement partner focused on creating great software to improve
+    users' lives. We work with clients such as GE, Johnson & Johnson and the
+    NBA to create the best mobile experience possible. WillowTree excels at
+    bleeding-edge projects that allow us to push boundaries and challenge
+    ourselves to keep evolving.
+
+    How do we do it? We hire the smartest and most passionate people in the
+    industry and give them what they need to keep growing and learning. We have
+    all the perks of other leading development shops, but what makes us unique
+    is a "maker" culture that gives great designers and developers the freedom
+    to produce incredible results. Say no to meetings, paperwork and middle
+    management, and yes to building great things.
+
+
+- name: Pluralsight
+  visible: true
+  short: pluralsight
+  logo: pluralsight.png
+  url: http://www.pluralsight.com/
+  event:
+  description: >
+    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
+    training for software developers, IT specialists and creative
+    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
+    delivering hands-on learning for the most in-demand jobs of today.
+
+- name: KeyCDN
+  visible: true
+  short: keycdn
+  logo: keycdn.png
+  url: https://www.keycdn.com/
+  event:
+  description: >
+    [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
+    Delivery Network (CDN) made to satisfy your needs! Speed up your games,
+    software delivery, advertisements, CMS, websites and many more.
