@@ -331,3 +331,14 @@
     deployed at public institutions, private enterprises, and in the non-profit
     sector to address the challenges of responsibly making sense of complex,
     diverse data.
+
+- name: Esri
+  visible: true
+  short: esri
+  logo: esri.png
+  url: http://www.esri.com
+  event: Coffee/Espresso Bar
+  description: >
+    Esri is an international supplier of Geographic Information System software,
+    web GIS and geodatabase management applications.  You can find out more
+    about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
