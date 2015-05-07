@@ -315,3 +315,19 @@
     initiatives, we will also maintain our support of the entire tech industry
     leaders, like Javascript, who are doing the same for the industry as a
     whole.
+
+- name: Palantir
+  visible: true
+  short: palantir
+  logo: palantir.png
+  url: https://www.palantir.com/
+  event: Kayaking
+  description: >
+    From discovering fraudulent activity in healthcare data to finding better
+    ways to find housing for the homeless, Palantir Technologies is
+    revolutionizing the analysis of hard and important problems that face our
+    world today. We build software platforms that help human experts perform
+    powerful, collaborative analysis of data at scale. Palantir's software is
+    deployed at public institutions, private enterprises, and in the non-profit
+    sector to address the challenges of responsibly making sense of complex,
+    diverse data.
