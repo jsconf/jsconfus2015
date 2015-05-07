@@ -296,3 +296,22 @@
     provide developers with real metrics, valuable insights and actionable
     recommendations so they can build the best software possible.
 
+- name: Conde Nast
+  visible: true
+  short: condenast
+  logo: condenast.png
+  url: http://www.condenast.com/
+  event: Significant Other Track
+  description: >
+    Condé Nast is a premier media company renowned for producing the highest
+    quality content for the world's most influential audiences. Our portfolio
+    includes some of the most iconic titles in media: Vogue, Vanity Fair,
+    Glamour, Brides, Self, GQ, The New Yorker, Condé Nast Traveler, Details,
+    Allure, Architectural Digest, Bon Appétit, Epicurious, Wired, W, Golf
+    Digest, Golf World, Teen Vogue, and Ars Technica. Our digital team is
+    proud to support the JavaScript community, as we create constantly in JS,
+    including front end, back end, and all API's and apps.  As Condé Nast
+    continues to revolutionize and expand our company's digital products and
+    initiatives, we will also maintain our support of the entire tech industry
+    leaders, like Javascript, who are doing the same for the industry as a
+    whole.
