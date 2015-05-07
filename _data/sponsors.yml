@@ -267,3 +267,16 @@
     business, or personalized photo products commemorating cherished family
     moments, we create real, tangible products that mean something to real
     people.
+
+- name: bitHound
+  visible: true
+  short: bithound
+  logo: bithound.png
+  url: https://www.bithound.io/
+  event:
+  description: >
+    [bitHound](https://www.bithound.io/) is a software analytics solution that
+    believes that it takes both craftsmanship and discipline to build resilient
+    and remarkable software. Our mission is to analyze JavaScript projects and
+    provide developers with real metrics, valuable insights and actionable
+    recommendations so they can build the best software possible.
