@@ -267,3 +267,18 @@
     business, or personalized photo products commemorating cherished family
     moments, we create real, tangible products that mean something to real
     people.
+
+- name: Braintree Payments
+  visible: true
+  short: braintree
+  logo: braintree.png
+  url: https://www.braintreepayments.com/
+  event: Track B
+  description: >
+    Braintree allows you to easily accept payments in your app or website. We
+    power payments for awesome companies like Uber, Airbnb, Dropbox and GitHub.
+    Braintree was born in Chicago and now has offices all over the world,
+    including New York, London, and San Francisco. We are always on the lookout
+    for talented engineers to join our fast-growing JavaScript team. Check out
+    our [open positions](https://www.braintreepayments.com/careers) in Chicago
+    and beyond! Follow us on Twitter [@Braintree](https://twitter.com/braintree)
