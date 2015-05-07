@@ -61,6 +61,21 @@
     Everybody wins when health information is simplified. Learn more at
     [availity.com](http://www.availity.com/)
 
+- name: Braintree Payments
+  visible: true
+  short: braintree
+  logo: braintree.png
+  url: https://www.braintreepayments.com/
+  event: Track B
+  description: >
+    Braintree allows you to easily accept payments in your app or website. We
+    power payments for awesome companies like Uber, Airbnb, Dropbox and GitHub.
+    Braintree was born in Chicago and now has offices all over the world,
+    including New York, London, and San Francisco. We are always on the lookout
+    for talented engineers to join our fast-growing JavaScript team. Check out
+    our [open positions](https://www.braintreepayments.com/careers) in Chicago
+    and beyond! Follow us on Twitter [@Braintree](https://twitter.com/braintree)
+
 
 - name: Telerik
   visible: true
@@ -268,17 +283,16 @@
     moments, we create real, tangible products that mean something to real
     people.
 
-- name: Braintree Payments
+- name: bitHound
   visible: true
-  short: braintree
-  logo: braintree.png
-  url: https://www.braintreepayments.com/
-  event: Track B
+  short: bithound
+  logo: bithound.png
+  url: https://www.bithound.io/
+  event:
   description: >
-    Braintree allows you to easily accept payments in your app or website. We
-    power payments for awesome companies like Uber, Airbnb, Dropbox and GitHub.
-    Braintree was born in Chicago and now has offices all over the world,
-    including New York, London, and San Francisco. We are always on the lookout
-    for talented engineers to join our fast-growing JavaScript team. Check out
-    our [open positions](https://www.braintreepayments.com/careers) in Chicago
-    and beyond! Follow us on Twitter [@Braintree](https://twitter.com/braintree)
+    [bitHound](https://www.bithound.io/) is a software analytics solution that
+    believes that it takes both craftsmanship and discipline to build resilient
+    and remarkable software. Our mission is to analyze JavaScript projects and
+    provide developers with real metrics, valuable insights and actionable
+    recommendations so they can build the best software possible.
+
