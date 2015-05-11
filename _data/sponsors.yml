@@ -343,6 +343,7 @@
     web GIS and geodatabase management applications.  You can find out more
     about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
 
+
 - name: NPM, Inc.
   visible: true
   short: npm
@@ -355,4 +356,16 @@
     developers publish and share packaged open-source modules.  We're keeping
     the registry running, and working on new tools make the JavaScript
     community even more powerful.
-    
+
+- name: PayPal
+  visible: true
+  short: paypal
+  logo: paypal.png
+  url: http://www.paypal.com
+  event: Downtown Shuttle
+  description: >
+    PayPal is changing the way that people do business, as well as the way that
+    large scale applications are built. From our open source [KrakenJs](http://krakenjs.com/)
+    application suite to our easy to use [APIs](https://developer.paypal.com/),
+    PayPal is proud to be part of the javascript community and creating
+    experiences that our customers and developers love.
