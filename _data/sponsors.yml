@@ -376,3 +376,24 @@
     application suite to our easy to use [APIs](https://developer.paypal.com/),
     PayPal is proud to be part of the javascript community and creating
     experiences that our customers and developers love.
+
+- name: Bocoup
+  visible: true
+  short: bocoup
+  logo: bocoup.png
+  url: http://bocoup.com/
+  event: NodeBots
+  description: >
+    Bocoup is an Open Web technology company by and for programmers. We create,
+    support, and advance Open Web technologies through consulting, education,
+    and community development.
+
+    Bocoup is also the home of Johnny-Five, the JavaScript Robotics programming
+    framework of choice since 2012. Johnny-Five is a robust, extensible and
+    composable ecosystem for building internet-connected devices on a variety
+    hardware platforms.
+
+    Want to make a robot friend at JS Conf? Sign up for the Nodebots activity
+    at registration to get your very own first-edition Johnny-Five Starter Kit,
+    and visit [johnny-five.io](http://johnny-five.io/) to start building all
+    kinds of robots with JavaScript today!
