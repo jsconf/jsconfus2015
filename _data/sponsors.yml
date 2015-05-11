@@ -342,3 +342,11 @@
     Esri is an international supplier of Geographic Information System software,
     web GIS and geodatabase management applications.  You can find out more
     about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
+
+- name: IBM
+  visible: true
+  short: ibm
+  logo: ibm.png
+  url: http://www.ibm.com/us/en/
+  event: Starry Night Campfire
+  description: >
