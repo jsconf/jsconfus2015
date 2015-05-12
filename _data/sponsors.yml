@@ -376,3 +376,11 @@
     application suite to our easy to use [APIs](https://developer.paypal.com/),
     PayPal is proud to be part of the javascript community and creating
     experiences that our customers and developers love.
+
+- name: PwC
+  visible: true
+  short: pwc
+  logo: pwc.png
+  url: http://www.pwc.com/us/en/index.jhtml
+  event: Wednesday Dinner Party
+  description: >
