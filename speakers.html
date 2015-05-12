@@ -36,4 +36,20 @@ id: speakers
 </div>
 {% endif %}
 {% endfor %}
+
+{% for speaker in site.data.trackb %}
+{% if speaker.visible %}
+<div class='col-md-12'>
+<div class='speaker clearfix' id='{{speaker.lastname | downcase}}'>
+  <div class='name'>
+    <h3>{{speaker.firstname}} {{speaker.lastname}}</h3>
+  </div>
+  <div class='talk'>
+    <div class='title'>{{speaker.title}}</div>
+    {{speaker.body | markdownify}}
+  </div>
+</div>
+</div>
+{% endif %}
+{% endfor %}
 </div>

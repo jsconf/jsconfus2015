@@ -1,0 +1,108 @@
+- firstname: Rey
+  lastname: Bango
+  visible: true
+  title: Woah, You Can Test IE & Microsoft Edge on a Mac & Linux?
+  body: >
+    OS X and Linux are two very popular operating system choices for web developers but they still want to be able to test Internet Explorer and the new Microsoft Edge browsers. In this talk, we'll discuss the state of browser marketshare, the options available for testing these browsers on OS X & Linux and new tools that offer enhanced testing capabilities for mobile browsers
+- firstname: Mike
+  lastname: Ball
+  visible: true
+  title: Headless Testing Against Real Web Browsers
+  body: >
+    Continuous integration ensures software's health with each each codebase change, ideally via automated tests and other quality-assurance processes. Tools like Phantomjs offer a great path towards headless JavaScript testing, but what about those scenarios where the software under test requires an actual GUI web browser? Think NW.js, Flash, and Google Polymer web-component-tester. X Virtual Frame Buffer provides an excellent solution towards lightweight, headless testing against real web browsers. In this talk, I'll offer some background on X Virtual Frame Buffer, and demo how to test a Google Polymer web component on a lightweight Ubuntu VM in continuous integration.
+- firstname: Kyle
+  lastname: Tyacke
+  visible: true
+  title: Communicate All the Things... With WebRTC!
+  body: >
+    In this talk we’ll look take a look at WebRTC, a rather new technology that is giving Javascript developers the tools to add real-time communications features to their applications without the need for plugins or learning a new language. We’ll examine the key components of this standard, look at how peer to peer connections are established, and discuss how you can start adding features like video calling and screen sharing to your applications today using the Respoke Javascript library!
+- firstname: Jonathan
+  lastname: Martin
+  visible: true
+  title: You Won’t Believe This One Weird Way to Rewrite Closures
+  body: >
+    Closures are undoubtedly the most powerful feature JavaScript inherited from its Lisp forbears. But would JS be so powerful… without them?
+
+    We’ll reimplement closures entirely from scratch without the convenience of native local variables or function parameters. Entirely in JavaScript. Using prototypal inheritance, some clever hat-tips from graphics programming, amnesic function bodies, and this one weird global variable.
+- firstname: Myles
+  lastname: Borins
+  visible: true
+  title: Would a sample at any other rate sound as sweet? An introduction to how our brains interpret sound
+  body: >
+    In this talk we will explore signal processing, specifically how our brain interprets sound. We will explore some of the basic theory behind how music is digitally encoded and look back at some of the history and science behind the western musical cannon.
+- firstname: Laney
+  lastname: Kuenzel
+  visible: true
+  title: Mutations and Subscriptions in Relay
+  body: >
+    A dive into how the Relay framework makes it simple for developers to implement mutations (data writes) and real-time updates.
+- firstname: Jory
+  lastname: Burson
+  visible: true
+  title: TBD
+  body: >
+    TBD
+- firstname: Michael
+  lastname: O'Brien
+  visible: true
+  title: Introducing Mixed Mode
+  body: >
+    This talk will introduce the idea of working with both Dom + GL in a single co-ordinate system.
+- firstname: Carmine
+  lastname: Casciato
+  visible: true
+  title: "JSONa Non Grata: XSL and JavaScript in the Enterprise"
+  body: >
+    In this talk, I'll detail some of the efforts IntraSee has made to bring a modern UX to PeopleSoft by leveraging JavaScript and JSON, despite the application's development tooling being heavily skewed towards XSL and XML.
+- firstname: Chris
+  lastname: Lorenzo
+  visible: true
+  title: "Polymer: The future of Web Components"
+  body: >
+    What are web components and why you should be using them. Find out how to get started and how Comcast is using Polymer for customer facing applications.
+- firstname: Andrew
+  lastname: Rota
+  visible: true
+  title: "Tungsten.js: Virtual DOM + Server Rendering in a Legacy Codebase"
+  body: >
+    Why we wrote our own framework to deliver high-performance UI updates and fast server-side rendering within our existing tech stack.
+- firstname: Peter
+  lastname: Piekarczyk
+  visible: true
+  title: The Hybrid Backbone & React App
+  body: >
+    Have a large Backbone application that you'd like to try React on with the hopes of moving away from Backbone in the future? I'll guide you through some of the options and techniques you can do so without going crazy.
+- firstname: Gord
+  lastname: Tanner
+  visible: true
+  title: Umm... I have to do WHAT to run this code?
+  body: >
+    Whether you work on open source or are hiring developers to work with you, first impressions matter. The first day on with a project is both exciting and challenging for any developer. From missing documentation, unknown dependencies, complex codebases and install processes, it’s a wonder that most people don’t just quit on the spot.
+
+    However, when a plan is in place and when things are handled correctly, the first day with a codebase can become one of the most motivating days for any developer.
+- firstname: Kassandra
+  lastname: Perch
+  visible: true
+  title: "NodeBots: LIVE!"
+  body: >
+    Our semi-yearly episode of NodeBots:Live! We'll have so much to talk (and dance) about!
+
+    Want to be on the panel? Let me know: the@nodebotani.st
+- firstname: JOHN-DAVID
+  lastname: DALTON
+  visible: true
+  title: "Drawing Hands: Built-ins written in JavaScript"
+  body: >
+    Learn about how browsers/engines leverage JavaScript to implement built-in APIs. Knowing @jdalton there's likely going to be some performance bits too.
+- firstname: Dave
+  lastname: Cadwallader
+  visible: true
+  title: "Zombies and Soup: Why End-to-End testing sucks (and why it doesn't have to)"
+  body: >
+    At WalmartLabs, we like to automate-away all our boring and tedious work, so we can focus on the fun stuff.  But automated cross-browser end-to-end testing is really really hard to get right.  We'll show you how we did it, and unveil some open source tools we're releasing to help with your zombie apocalypse, too.
+- firstname: Matt
+  lastname: Edelman
+  visible: true
+  title: Nemo. The natural nodejs automation solution
+  body: >
+    Introducing NemoJS (http://nemo.js.org, https://github.com/paypal/nemo), a test and task runner agnostic selenium wrapper  - with confit (https://github.com/krakenjs/confit) for configuration and a plugin architecture for precise customization and modularity.
