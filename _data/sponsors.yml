@@ -339,9 +339,10 @@
   url: http://www.esri.com
   event: Coffee/Espresso Bar
   description: >
-    Esri is an international supplier of Geographic Information System software,
-    web GIS and geodatabase management applications.  You can find out more
-    about Esri at [https://developers.arcgis.com/](https://developers.arcgis.com/)
+    Esri's mapping platform, ArcGIS, gives hundreds of thousands of
+    organizations the power to make better business decisions, save the
+    environment, build better apps and much more. Check out our APIs, SDKs and
+    docs at [https://developers.arcgis.com/](https://developers.arcgis.com/).
 
 - name: IBM
   visible: true
