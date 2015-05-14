@@ -21,23 +21,22 @@
     securely from a desktop computer, mobile phone or tablet. We have provided
     communications platforms, true electronic social networking and workflow
     connectivity in the financial world for over two decades.
-
-
-- name: Pebble
+- name: ETA
   visible: true
-  short: pebble
-  logo: pebble.png
-  url: https://getpebble.com/
-  event: Nodeboats
+  short: eta
+  logo: eta.png
+  url: http://www.emergingtechnologyadvisors.com/
+  event: Closing Party
   description: >
-    Pebble is back again at JSConf! This year with the new Pebble Time watch,
-    breaking records again on Kickstarter. Just like its predecessors, the new
-    Pebble Time is water resistant, has an always on display, and up to a week
-    of battery life! The screen has been upgraded to support colors, the new
-    microphone is nifty, and the new timeline web APIs allow any web developer
-    to push events with notifications and actions to Pebble users. Writing apps
-    has never been so easy with our online IDE cloudpebble.net, complete with a
-    fully functional emulator, which supports C and JavaScript!
+    We started as a team of technologists helping companies solve complex
+    problems. But our love of all things technology didn’t stop there — in our
+    spare time, we were building robots, starting maker faires, helping kids.
+    At the same time, our clients started voicing concerns over the challenges
+    of the fast-evolving, high-tech 21st-century work world — and the need for
+    a workforce that could keep pace. So the idea was born: combine technology
+    consulting with technology education, and help build the pipeline of talent
+    companies need, while giving students the drive and skills to succeed.
+
 - name: Availity
   visible: true
   short: availity
@@ -77,25 +76,6 @@
     and beyond! Follow us on Twitter [@Braintree](https://twitter.com/braintree)
 
 
-- name: Telerik
-  visible: true
-  short: telerik
-  logo: telerik.png
-  url: http://www.telerik.com/
-  event: NodeCopter
-  description: >
-    Telerik empowers its customers to create compelling app experiences across
-    any screen. Our end-to- end platform uniquely combines industry-leading UI
-    tools with cloud services to simplify the entire app development lifecycle.
-    Telerik tools and services can be adopted individually or as a platform and
-    seamlessly integrated with other popular developer solutions. More than
-    130,000 customers from 40,000 organizations in 94 countries depend on
-    Telerik products, including more than 450 of the Fortune 500®, academic
-    institutions, governments and non-profits. For additional information about
-    Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
-    [@telerik](https://twitter.com/telerik) on Twitter.
-
-
 - name: Huge
   visible: true
   short: huge
@@ -116,6 +96,41 @@
     over quality and if you enjoy every minute of it, then come
     [join us](http://www.hugeinc.com/careers/technology) and make something you
     love.
+- name: Telerik
+  visible: true
+  short: telerik
+  logo: telerik.png
+  url: http://www.telerik.com/
+  event: NodeCopter
+  description: >
+    Telerik empowers its customers to create compelling app experiences across
+    any screen. Our end-to- end platform uniquely combines industry-leading UI
+    tools with cloud services to simplify the entire app development lifecycle.
+    Telerik tools and services can be adopted individually or as a platform and
+    seamlessly integrated with other popular developer solutions. More than
+    130,000 customers from 40,000 organizations in 94 countries depend on
+    Telerik products, including more than 450 of the Fortune 500®, academic
+    institutions, governments and non-profits. For additional information about
+    Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
+    [@telerik](https://twitter.com/telerik) on Twitter.
+
+
+- name: Pebble
+  visible: true
+  short: pebble
+  logo: pebble.png
+  url: https://getpebble.com/
+  event: NodeBoats
+  description: >
+    Pebble is back again at JSConf! This year with the new Pebble Time watch,
+    breaking records again on Kickstarter. Just like its predecessors, the new
+    Pebble Time is water resistant, has an always on display, and up to a week
+    of battery life! The screen has been upgraded to support colors, the new
+    microphone is nifty, and the new timeline web APIs allow any web developer
+    to push events with notifications and actions to Pebble users. Writing apps
+    has never been so easy with our online IDE cloudpebble.net, complete with a
+    fully functional emulator, which supports C and JavaScript!
+
 - name: Atlassian
   visible: true
   short: atlassian
@@ -130,6 +145,24 @@
     smarter and deliver quality results on time. Atlassian products are also
     extendable with Javascript and other technologies. Learn more
     at [http://developer.atlassian.com](http://developer.atlassian.com).
+
+
+- name: Palantir
+  visible: true
+  short: palantir
+  logo: palantir.png
+  url: https://www.palantir.com/
+  event: Kayaking
+  description: >
+    From discovering fraudulent activity in healthcare data to finding better
+    ways to find housing for the homeless, Palantir Technologies is
+    revolutionizing the analysis of hard and important problems that face our
+    world today. We build software platforms that help human experts perform
+    powerful, collaborative analysis of data at scale. Palantir's software is
+    deployed at public institutions, private enterprises, and in the non-profit
+    sector to address the challenges of responsibly making sense of complex,
+    diverse data.
+
 - name: Mandrill
   visible: true
   short: mandrill
@@ -143,127 +176,6 @@
     can focus on making your app and the emails you send effective. Intuitive
     sending defaults, automatic tracking, and detailed activity logs provide
     the data you need, whether you’re a solo developer or a development team.
-
-- name: Intent Media
-  visible: true
-  short: intentmedia
-  logo: intentmedia.png
-  url: http://intentmedia.com/
-  event: Scavenger Hunt
-  description: >
-    Intent Media operates the world’s most powerful platform for advertising
-    on commerce sites. We help online travel companies unlock their full
-    revenue potential with innovative, high-margin advertising products powered
-    by predictive analytics. Our customers include the world's largest online
-    travel agencies, metasearch companies, airlines, hotels and car rental
-    agencies.
-
-    Every day, we’re inspired by two pursuits. First, we’re imagining and
-    building novel products that are upending ecommerce. Second, we’re building
-    the company we’ve always wanted to work for — one that’s open, human and
-    collaborative, where very smart people come together to share ideas and
-    get things done.
-
-- name: SauceLabs
-  visible: true
-  short: saucelabs
-  logo: saucelabs.png
-  url: http://saucelabs.com/
-  event: Pool & Beachside
-  description: >
-    Sauce Labs makes automated testing awesome. Our cloud-based platform helps
-    developers test native & hybrid mobile and web applications across 500+
-    browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports
-    Selenium, Appium and popular JavaScript unit testing frameworks, and
-    integrates with all of the top programming languages, test frameworks and
-    CI systems. With built-in video recording and screenshots of every test
-    case, debugging tools, and secure tunneling for local or firewalled
-    testing, Sauce makes running, debugging and scaling test suites quick and
-    easy. To get started for free, visit [saucelabs.com](http://saucelabs.com/).
-- name: Facebook
-  visible: true
-  short: facebook
-  logo: facebook.png
-  url: http://www.facebook.com/
-  event: Bike Rentals
-  description: >
-    [Facebook](http://www.facebook.com/) is defined by our hacker culture - an
-    environment that rewards creative problem solving and rapid decision making.
-    We encourage people to be bold. Our open culture keeps everyone informed
-    and allows people to move around and solve the problems they care about
-    most. We work in small teams and move fast to develop new products,
-    constantly iterating and improving. The phrase “this journey is 1%
-    finished” is posted on our walls, reminding us that we’ve only begun to
-    fulfill our mission to make the world more open and connected.
-
-- name: Microsoft
-  visible: true
-  short: microsoft
-  logo: microsoft.png
-  url: http://www.microsoft.com/
-  event: The Maxx Arcade
-  description: >
-    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
-    the worldwide leader in software, services, devices and solutions that help
-    people and businesses realize their full potential.
-
-- name: Respoke
-  visible: true
-  short: respoke
-  logo: respoke.png
-  url: https://www.respoke.io/
-  event: 80's Karaoke Studio
-  description: >
-    Respoke makes it easy to add live voice, video and messaging features to
-    your web or mobile app in minutes. Give your app a face and a voice at
-    [https://www.respoke.io/](https://www.respoke.io/)
-
-
-- name: WillowTree
-  visible: true
-  short: willowtree
-  logo: willowtree.png
-  url: http://www.willowtreeapps.com/
-  event:
-  description: >
-    Much more than a mobile app development company – WillowTree is a new breed
-    mobile engagement partner focused on creating great software to improve
-    users' lives. We work with clients such as GE, Johnson & Johnson and the
-    NBA to create the best mobile experience possible. WillowTree excels at
-    bleeding-edge projects that allow us to push boundaries and challenge
-    ourselves to keep evolving.
-
-    How do we do it? We hire the smartest and most passionate people in the
-    industry and give them what they need to keep growing and learning. We have
-    all the perks of other leading development shops, but what makes us unique
-    is a "maker" culture that gives great designers and developers the freedom
-    to produce incredible results. Say no to meetings, paperwork and middle
-    management, and yes to building great things.
-
-
-- name: Pluralsight
-  visible: true
-  short: pluralsight
-  logo: pluralsight.png
-  url: http://www.pluralsight.com/
-  event:
-  description: >
-    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
-    training for software developers, IT specialists and creative
-    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
-    delivering hands-on learning for the most in-demand jobs of today.
-
-
-- name: KeyCDN
-  visible: true
-  short: keycdn
-  logo: keycdn.png
-  url: https://www.keycdn.com/
-  event:
-  description: >
-    [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
-    Delivery Network (CDN) made to satisfy your needs! Speed up your games,
-    software delivery, advertisements, CMS, websites and many more.
 
 - name: Cimpress
   visible: true
@@ -282,19 +194,6 @@
     business, or personalized photo products commemorating cherished family
     moments, we create real, tangible products that mean something to real
     people.
-
-- name: bitHound
-  visible: true
-  short: bithound
-  logo: bithound.png
-  url: https://www.bithound.io/
-  event:
-  description: >
-    [bitHound](https://www.bithound.io/) is a software analytics solution that
-    believes that it takes both craftsmanship and discipline to build resilient
-    and remarkable software. Our mission is to analyze JavaScript projects and
-    provide developers with real metrics, valuable insights and actionable
-    recommendations so they can build the best software possible.
 
 - name: Conde Nast
   visible: true
@@ -315,22 +214,6 @@
     initiatives, we will also maintain our support of the entire tech industry
     leaders, like Javascript, who are doing the same for the industry as a
     whole.
-
-- name: Palantir
-  visible: true
-  short: palantir
-  logo: palantir.png
-  url: https://www.palantir.com/
-  event: Kayaking
-  description: >
-    From discovering fraudulent activity in healthcare data to finding better
-    ways to find housing for the homeless, Palantir Technologies is
-    revolutionizing the analysis of hard and important problems that face our
-    world today. We build software platforms that help human experts perform
-    powerful, collaborative analysis of data at scale. Palantir's software is
-    deployed at public institutions, private enterprises, and in the non-profit
-    sector to address the challenges of responsibly making sense of complex,
-    diverse data.
 
 - name: Esri
   visible: true
@@ -399,18 +282,137 @@
     and visit [johnny-five.io](http://johnny-five.io/) to start building all
     kinds of robots with JavaScript today!
 
-- name: ETA
+- name: Intent Media
   visible: true
-  short: eta
-  logo: eta.png
-  url: http://www.emergingtechnologyadvisors.com/
-  event: 
+  short: intentmedia
+  logo: intentmedia.png
+  url: http://intentmedia.com/
+  event: Scavenger Hunt
   description: >
-    We started as a team of technologists helping companies solve complex
-    problems. But our love of all things technology didn’t stop there — in our
-    spare time, we were building robots, starting maker faires, helping kids.
-    At the same time, our clients started voicing concerns over the challenges
-    of the fast-evolving, high-tech 21st-century work world — and the need for
-    a workforce that could keep pace. So the idea was born: combine technology
-    consulting with technology education, and help build the pipeline of talent
-    companies need, while giving students the drive and skills to succeed.
+    Intent Media operates the world’s most powerful platform for advertising
+    on commerce sites. We help online travel companies unlock their full
+    revenue potential with innovative, high-margin advertising products powered
+    by predictive analytics. Our customers include the world's largest online
+    travel agencies, metasearch companies, airlines, hotels and car rental
+    agencies.
+
+    Every day, we’re inspired by two pursuits. First, we’re imagining and
+    building novel products that are upending ecommerce. Second, we’re building
+    the company we’ve always wanted to work for — one that’s open, human and
+    collaborative, where very smart people come together to share ideas and
+    get things done.
+
+- name: SauceLabs
+  visible: true
+  short: saucelabs
+  logo: saucelabs.png
+  url: http://saucelabs.com/
+  event: Pool & Beachside
+  description: >
+    Sauce Labs makes automated testing awesome. Our cloud-based platform helps
+    developers test native & hybrid mobile and web applications across 500+
+    browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports
+    Selenium, Appium and popular JavaScript unit testing frameworks, and
+    integrates with all of the top programming languages, test frameworks and
+    CI systems. With built-in video recording and screenshots of every test
+    case, debugging tools, and secure tunneling for local or firewalled
+    testing, Sauce makes running, debugging and scaling test suites quick and
+    easy. To get started for free, visit [saucelabs.com](http://saucelabs.com/).
+- name: Facebook
+  visible: true
+  short: facebook
+  logo: facebook.png
+  url: http://www.facebook.com/
+  event: Bike Rentals
+  description: >
+    [Facebook](http://www.facebook.com/) is defined by our hacker culture - an
+    environment that rewards creative problem solving and rapid decision making.
+    We encourage people to be bold. Our open culture keeps everyone informed
+    and allows people to move around and solve the problems they care about
+    most. We work in small teams and move fast to develop new products,
+    constantly iterating and improving. The phrase “this journey is 1%
+    finished” is posted on our walls, reminding us that we’ve only begun to
+    fulfill our mission to make the world more open and connected.
+
+- name: Microsoft
+  visible: true
+  short: microsoft
+  logo: microsoft.png
+  url: http://www.microsoft.com/
+  event: The Maxx Arcade
+  description: >
+    Founded in 1975, [Microsoft](http://www.microsoft.com/) (Nasdaq "MSFT") is
+    the worldwide leader in software, services, devices and solutions that help
+    people and businesses realize their full potential.
+
+- name: bitHound
+  visible: true
+  short: bithound
+  logo: bithound.png
+  url: https://www.bithound.io/
+  event:
+  description: >
+    [bitHound](https://www.bithound.io/) is a software analytics solution that
+    believes that it takes both craftsmanship and discipline to build resilient
+    and remarkable software. Our mission is to analyze JavaScript projects and
+    provide developers with real metrics, valuable insights and actionable
+    recommendations so they can build the best software possible.
+
+
+- name: Respoke
+  visible: true
+  short: respoke
+  logo: respoke.png
+  url: https://www.respoke.io/
+  event: 80's Karaoke Studio
+  description: >
+    Respoke makes it easy to add live voice, video and messaging features to
+    your web or mobile app in minutes. Give your app a face and a voice at
+    [https://www.respoke.io/](https://www.respoke.io/)
+
+
+- name: WillowTree
+  visible: true
+  short: willowtree
+  logo: willowtree.png
+  url: http://www.willowtreeapps.com/
+  event:
+  description: >
+    Much more than a mobile app development company – WillowTree is a new breed
+    mobile engagement partner focused on creating great software to improve
+    users' lives. We work with clients such as GE, Johnson & Johnson and the
+    NBA to create the best mobile experience possible. WillowTree excels at
+    bleeding-edge projects that allow us to push boundaries and challenge
+    ourselves to keep evolving.
+
+    How do we do it? We hire the smartest and most passionate people in the
+    industry and give them what they need to keep growing and learning. We have
+    all the perks of other leading development shops, but what makes us unique
+    is a "maker" culture that gives great designers and developers the freedom
+    to produce incredible results. Say no to meetings, paperwork and middle
+    management, and yes to building great things.
+
+
+- name: Pluralsight
+  visible: true
+  short: pluralsight
+  logo: pluralsight.png
+  url: http://www.pluralsight.com/
+  event:
+  description: >
+    [Pluralsight](http://www.pluralsight.com/) is the global leader in online
+    training for software developers, IT specialists and creative
+    technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
+    delivering hands-on learning for the most in-demand jobs of today.
+
+
+- name: KeyCDN
+  visible: true
+  short: keycdn
+  logo: keycdn.png
+  url: https://www.keycdn.com/
+  event:
+  description: >
+    [KeyCDN](https://www.keycdn.com/) is a powerful and easy to use Content
+    Delivery Network (CDN) made to satisfy your needs! Speed up your games,
+    software delivery, advertisements, CMS, websites and many more.
