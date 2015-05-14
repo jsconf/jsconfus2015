@@ -398,3 +398,19 @@
     at registration to get your very own first-edition Johnny-Five Starter Kit,
     and visit [johnny-five.io](http://johnny-five.io/) to start building all
     kinds of robots with JavaScript today!
+
+- name: ETA
+  visible: true
+  short: eta
+  logo: eta.png
+  url: http://www.emergingtechnologyadvisors.com/
+  event: 
+  description: >
+    We started as a team of technologists helping companies solve complex
+    problems. But our love of all things technology didn’t stop there — in our
+    spare time, we were building robots, starting maker faires, helping kids.
+    At the same time, our clients started voicing concerns over the challenges
+    of the fast-evolving, high-tech 21st-century work world — and the need for
+    a workforce that could keep pace. So the idea was born: combine technology
+    consulting with technology education, and help build the pipeline of talent
+    companies need, while giving students the drive and skills to succeed.
