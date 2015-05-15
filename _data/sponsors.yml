@@ -28,14 +28,17 @@
   url: http://www.emergingtechnologyadvisors.com/
   event: Closing Party
   description: >
-    We started as a team of technologists helping companies solve complex
-    problems. But our love of all things technology didn’t stop there — in our
-    spare time, we were building robots, starting maker faires, helping kids.
-    At the same time, our clients started voicing concerns over the challenges
-    of the fast-evolving, high-tech 21st-century work world — and the need for
-    a workforce that could keep pace. So the idea was born: combine technology
-    consulting with technology education, and help build the pipeline of talent
-    companies need, while giving students the drive and skills to succeed.
+    We started as a team of technologists helping companies to solve complex
+    problems. Our love of all things technology didn't stop there — in our
+    spare time, we were building robots, creating developer events
+    ([JSConf](http://jsconf.us), [RobotsConf](http://robotsconf.com),
+    [NodeBots](http://nodebots.io), etc.), and helping kids. At the same
+    time, our clients started voicing concerns over the challenges of the
+    fast-evolving, high-tech 21<sup>st</sup>-century work environment -
+    and the need for a workforce that could keep pace. So the idea was
+    born: emerging technology consulting with fascinating education,
+    and help build or re-inspire the pipeline of talent that companies
+    need, while giving individuals the drive and skills to succeed.
 
 - name: Availity
   visible: true
