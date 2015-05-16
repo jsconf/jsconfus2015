@@ -237,6 +237,9 @@
   url: http://www.ibm.com/us/en/
   event: Starry Night Campfire
   description: >
+    We’ve developed a lot of software in IBM’s 100+ year history, from punch cards to core transaction processing to cognitive computing.
+
+    IBM Bluemix is our open-technology cloud platform for developing and deploying web and mobile applications. Developers can quickly build, deploy, run, and manage applications with best of class services and infrastructure components from IBM and third party providers. [Sign up for your 30-day trial](https://mccp.ng.bluemix.net/login/trial)!
 
 - name: NPM, Inc.
   visible: true
