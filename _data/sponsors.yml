@@ -351,6 +351,27 @@
     the worldwide leader in software, services, devices and solutions that help
     people and businesses realize their full potential.
 
+- name: CodeSchool
+  visible: true
+  short: codeschool
+  logo: codeschool.png
+  url: https://www.codeschool.com/
+  event: Segway Tour
+  description: >
+    [Code School](https://www.codeschool.com/) is an online learning destination
+    for existing and aspiring developers that teaches through entertaining
+    content. Each course is built around a creative theme and storyline so that
+    it feels like you’re playing a game, not sitting in a classroom. We combine
+    gaming mechanics with video instruction and in-browser coding challenges
+    that make learning both educational and memorable. With more than 40 courses
+    covering JavaScript, HTML/CSS, Ruby, Git, and iOS, Code School pairs
+    experienced instructors with meticulously produced, high-quality content
+    inspired by our community and network of members.
+
+    More than a million people around the world come to Code School to get
+    started with a new technology and learn by doing.
+    
+
 - name: bitHound
   visible: true
   short: bithound
