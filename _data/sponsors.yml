@@ -21,6 +21,7 @@
     securely from a desktop computer, mobile phone or tablet. We have provided
     communications platforms, true electronic social networking and workflow
     connectivity in the financial world for over two decades.
+
 - name: ETA
   visible: true
   short: eta
@@ -50,6 +51,7 @@
     [Availity](http://www.availity.com/) is the engine driving health care
     simplification and collaboration.
 
+
     As an industry-leading, HITRUST-certified health information technology
     company, Availity serves an extensive network of health plans, providers,
     and technology partners nationwide through a suite of dynamic products
@@ -59,6 +61,7 @@
     value-based care environment. Facilitating more than 7 million transactions
     daily, Availity’s ability to provide accurate, timely, and relevant
     information is vital to the financial success of its clients.
+
 
     Everybody wins when health information is simplified. Learn more at
     [availity.com](http://www.availity.com/)
@@ -77,7 +80,6 @@
     for talented engineers to join our fast-growing JavaScript team. Check out
     our [open positions](https://www.braintreepayments.com/careers) in Chicago
     and beyond! Follow us on Twitter [@Braintree](https://twitter.com/braintree)
-
 
 - name: Huge
   visible: true
@@ -99,6 +101,7 @@
     over quality and if you enjoy every minute of it, then come
     [join us](http://www.hugeinc.com/careers/technology) and make something you
     love.
+
 - name: Telerik
   visible: true
   short: telerik
@@ -116,7 +119,6 @@
     institutions, governments and non-profits. For additional information about
     Telerik, please visit [telerik.com](http://www.telerik.com/) or follow
     [@telerik](https://twitter.com/telerik) on Twitter.
-
 
 - name: Pebble
   visible: true
@@ -148,7 +150,6 @@
     smarter and deliver quality results on time. Atlassian products are also
     extendable with Javascript and other technologies. Learn more
     at [http://developer.atlassian.com](http://developer.atlassian.com).
-
 
 - name: Palantir
   visible: true
@@ -237,9 +238,15 @@
   url: http://www.ibm.com/us/en/
   event: Starry Night Campfire
   description: >
-    We’ve developed a lot of software in IBM’s 100+ year history, from punch cards to core transaction processing to cognitive computing.
+    We’ve developed a lot of software in IBM’s 100+ year history, from punch
+    cards to core transaction processing to cognitive computing.
 
-    IBM Bluemix is our open-technology cloud platform for developing and deploying web and mobile applications. Developers can quickly build, deploy, run, and manage applications with best of class services and infrastructure components from IBM and third party providers. [Sign up for your 30-day trial](https://mccp.ng.bluemix.net/login/trial)!
+
+    IBM Bluemix is our open-technology cloud platform for developing and
+    deploying web and mobile applications. Developers can quickly build, deploy,
+    run, and manage applications with best of class services and infrastructure
+    components from IBM and third party providers.
+    [Sign up for your 30-day trial](https://mccp.ng.bluemix.net/login/trial)!
 
 - name: NPM, Inc.
   visible: true
@@ -278,10 +285,12 @@
     support, and advance Open Web technologies through consulting, education,
     and community development.
 
+
     Bocoup is also the home of Johnny-Five, the JavaScript Robotics programming
     framework of choice since 2012. Johnny-Five is a robust, extensible and
     composable ecosystem for building internet-connected devices on a variety
     hardware platforms.
+
 
     Want to make a robot friend at JS Conf? Sign up for the Nodebots activity
     at registration to get your very own first-edition Johnny-Five Starter Kit,
@@ -301,6 +310,7 @@
     by predictive analytics. Our customers include the world's largest online
     travel agencies, metasearch companies, airlines, hotels and car rental
     agencies.
+
 
     Every day, we’re inspired by two pursuits. First, we’re imagining and
     building novel products that are upending ecommerce. Second, we’re building
@@ -324,6 +334,7 @@
     case, debugging tools, and secure tunneling for local or firewalled
     testing, Sauce makes running, debugging and scaling test suites quick and
     easy. To get started for free, visit [saucelabs.com](http://saucelabs.com/).
+
 - name: Facebook
   visible: true
   short: facebook
@@ -368,10 +379,10 @@
     experienced instructors with meticulously produced, high-quality content
     inspired by our community and network of members.
 
+
     More than a million people around the world come to Code School to get
     started with a new technology and learn by doing.
     
-
 - name: bitHound
   visible: true
   short: bithound
@@ -385,7 +396,6 @@
     provide developers with real metrics, valuable insights and actionable
     recommendations so they can build the best software possible.
 
-
 - name: Respoke
   visible: true
   short: respoke
@@ -396,7 +406,6 @@
     Respoke makes it easy to add live voice, video and messaging features to
     your web or mobile app in minutes. Give your app a face and a voice at
     [https://www.respoke.io/](https://www.respoke.io/)
-
 
 - name: WillowTree
   visible: true
@@ -412,13 +421,13 @@
     bleeding-edge projects that allow us to push boundaries and challenge
     ourselves to keep evolving.
 
+
     How do we do it? We hire the smartest and most passionate people in the
     industry and give them what they need to keep growing and learning. We have
     all the perks of other leading development shops, but what makes us unique
     is a "maker" culture that gives great designers and developers the freedom
     to produce incredible results. Say no to meetings, paperwork and middle
     management, and yes to building great things.
-
 
 - name: Pluralsight
   visible: true
@@ -431,7 +440,6 @@
     training for software developers, IT specialists and creative
     technologists. With 3,700+ courses, Pluralsight serves as a career catalyst,
     delivering hands-on learning for the most in-demand jobs of today.
-
 
 - name: KeyCDN
   visible: true
