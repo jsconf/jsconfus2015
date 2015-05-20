@@ -305,3 +305,72 @@
   bio: >
     Tracy is a cat herder of JavaScript events(of the people variety). In her spare time, she’s on her 6th life as a Web Engineer at Urban Airship. While never a butcher nor a candlestick maker, in prior lives she has been a baker, a restaurant manager, and addictions clinic coordinator. She’ll try just about anything once(kayaking down a waterfall and boiled peanuts fall into that category) and especially likes rock climbing--which may explain why she’s quickly coming up on her 9th life.
 
+- firstname: Nick
+  lastname: Nisi
+  visible: true
+  smurl: http://twitter.com/nicknisi
+  smtype: twitter
+  smhandle: nicknisi
+  company: SitePen, Inc
+  title: JavaScript Fundamentals
+  body: >
+    JavaScript is one of the world’s most popular programming languages, used by virtually all web applications. Learn the basics with this focused introduction to JavaScript Fundamentals. From variable types and functions to scope and prototype chains, you’ll gain a solid understanding of the language and a firm foundation for creating real world applications while writing clean, maintainable JavaScript.
+  bio: >
+    Nick is a JavaScript Engineer at SitePen and hails from Omaha, NE where he herds NebraskaJS. He is also a Dojo contributor and known in some parts for his legendary karaoke skills.
+
+- firstname: Kassandra
+  lastname: Perch
+  visible: true
+  smurl: http://twitter.com/nodebotanist
+  smtype: twitter
+  smhandle: nodebotanist
+  company: Bocoup
+  title: Intro to Node.js
+  body: >
+    In this intensive training segment, we’re going to get you started developing in Node.js. We’ll build a small application that serves a static webpage, has dynamic routing, and interacts with a third-party API (maybe even of the NodeBot variety...?). No knowledge of Node.js necessary, though a knowledge of JavaScript is a good thing to have for this training.
+  bio: >
+    Kassandra is an educator and Mad Scientist at Bocoup. When she's not building NodeBots, she's thinking about web architecture, or seeing a movie.
+
+- firstname: John K.
+  lastname: Paul
+  visible: true
+  smurl: http://twitter.com/johnkpaul
+  smtype: twitter
+  smhandle: johnkpaul
+  title: ES6 Overview Workshop
+  body: >
+    Coming soon, in a theater near you. It’s bigger than Ultron. It’s better than Ultron. It’s more ubiquitous than Robert Downey Jr. It’s ES6, JavaScript’s next in-your-face revsion. You’ve never seen a sequel, until you’ve seen this.
+
+    I’d like to take you all to the movies. Explain to you all about ES6, and what new features are accessible now, even in older browsers or node.js.  You’ll see what we can access with a single new script tag. I’ll also go through many of the features that are “transpilable” and explain what that means. I’ll even go so far as to say why some don’t like the word “transpile” at all. It’ll be an excuse for me to get into the fun and tangled web of compilers.
+
+    The goal of this workshop will be to give everyone a taste and experience of the future JavaScript features that we can all use with only a few tweaks to our current processes.
+  bio: >
+    John K. Paul is the organizer of the NYC HTML5 meetup group, the VP of engineering at Penton Media and former lead technical architect of Condé Nast's platform engineering team.  He is a also contributor to a few open source projects including requireify, jquery-ajax-retry and one single commit into jQuery.
+
+- firstname: Brian
+  lastname: Arnold Sinclair
+  visible: true
+  smurl: http://twitter.com/brianarn
+  smtype: twitter
+  smhandle: brianarn
+  company: Bazaarvoice, Inc
+  title: Debugging Deep Dive
+  body: >
+    Debugging is one of those things that (almost) everyone despises, but that absolutely every software developer needs to know how to do. Over the past fifteen years, Brian has worked through some of the weirdest, wildest bits of JavaScript, and has the mental scars to prove it.
+
+    In this deep dive, come and absorb some of his knowledge on how to debug all the things! We'll be focusing on the front-end mostly, as that's more commonly where the weirdness happens. We'll explore devtools in various browsers, as well as use of tools like proxies to help figure out what the heck is wrong with things.
+  bio: >
+    Brian Arnold Sinclair is a Staff Software Engineer at Bazaarvoice. He's also a board games fanatic and is overly excited about Rock Band 4.
+
+- firstname: Jeff
+  lastname: Barczewski
+  visible: true
+  smurl: http://twitter.com/jeffbski
+  smtype: twitter
+  smhandle: jeffbski
+  company: CodeWinds
+  title: Introduction and Getting Started with React.js
+  body: >
+    Why is React.js a game changer in a world with so many UI frameworks? We'll have fun learning what makes React.js special and uncover its simple core concepts. As we continue our journey, we'll apply our React.js skills to building some reactive web apps. You'll emerge from this workshop knowing the basics of React.js and will be ready to use it for your own projects.
+  bio: >
+    Jeff is the founder of CodeWinds. He is developing leading edge web developer training on topics like React.js, Hapi.js, and Node.js which will be delivered as online video courses. Jeff has worked as a full-stack engineer at MasterCard (for the ApplePay project), Elsevier, RGA, and served as an officer in the USAF. He enjoys speaking, mentoring and training developers on the best ways to build resilient systems.
