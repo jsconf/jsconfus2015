@@ -47,9 +47,10 @@
 - firstname: Jory
   lastname: Burson
   visible: true
-  title: TBD
+  title: Organizational Design for Open Source
   body: >
-    TBD
+    Lessons from the intersections of organizational design, human psychology, and business in order to better organize ourselves, our projects, and our communities.
+    
 - firstname: Michael
   lastname: O'Brien
   visible: true
