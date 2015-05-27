@@ -36,6 +36,14 @@
   title: Mutations and Subscriptions in Relay
   body: >
     A dive into how the Relay framework makes it simple for developers to implement mutations (data writes) and real-time updates.
+
+- firstname: Charlie
+  lastname: McConnell
+  visible: true
+  title: Pebble Timeline - A Web API For Your Wrist
+  body: >
+    Where is my train? When is my next talk? Is now a good time to use the restroom? Pebble is a device intended to give you constant access to the tools and data that matter most without having to dig out your phone. In this talk we will show off how easy it is to start programming data driven applications for Pebble with just a few lines of JS.
+
 - firstname: Jory
   lastname: Burson
   visible: true
