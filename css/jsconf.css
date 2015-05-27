@@ -257,3 +257,8 @@ font-size: 125%;
 
 #trackb .speaker .name, #trackb .speaker .talk, #trackb .speaker .bio{ margin-left: 0px;}
 .soldout-tickets { display: none;}
+
+.streamtext {
+  border: solid 3px #ecf0f1;
+  height: 500px;
+}
