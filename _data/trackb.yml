@@ -57,12 +57,6 @@
   title: Introducing Mixed Mode
   body: >
     This talk will introduce the idea of working with both Dom + GL in a single co-ordinate system.
-- firstname: Carmine
-  lastname: Casciato
-  visible: true
-  title: "JSONa Non Grata: XSL and JavaScript in the Enterprise"
-  body: >
-    In this talk, I'll detail some of the efforts IntraSee has made to bring a modern UX to PeopleSoft by leveraging JavaScript and JSON, despite the application's development tooling being heavily skewed towards XSL and XML.
 - firstname: Chris
   lastname: Lorenzo
   visible: true
